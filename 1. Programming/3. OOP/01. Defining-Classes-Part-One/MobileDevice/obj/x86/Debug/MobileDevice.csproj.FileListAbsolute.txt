@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-I\Defining-Classes-Part-One\MobileDevice\bin\Debug\MobileDevice.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-I\Defining-Classes-Part-One\MobileDevice\bin\Debug\MobileDevice.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-I\Defining-Classes-Part-One\MobileDevice\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-I\Defining-Classes-Part-One\MobileDevice\obj\x86\Debug\MobileDevice.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-I\Defining-Classes-Part-One\MobileDevice\obj\x86\Debug\MobileDevice.pdb

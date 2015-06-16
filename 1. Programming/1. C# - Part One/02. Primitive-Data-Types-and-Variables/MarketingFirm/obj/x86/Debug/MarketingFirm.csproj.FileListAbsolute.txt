@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Primitive-Data-Types-and-Variables\MarketingFirm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Primitive-Data-Types-and-Variables\MarketingFirm\bin\Debug\MarketingFirm.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Primitive-Data-Types-and-Variables\MarketingFirm\bin\Debug\MarketingFirm.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Primitive-Data-Types-and-Variables\MarketingFirm\obj\x86\Debug\MarketingFirm.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Primitive-Data-Types-and-Variables\MarketingFirm\obj\x86\Debug\MarketingFirm.pdb

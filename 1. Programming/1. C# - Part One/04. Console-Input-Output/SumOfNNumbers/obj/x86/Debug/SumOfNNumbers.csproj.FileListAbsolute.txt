@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Console-Input-Output\SumOfNNumbers\bin\Debug\SumOfNNumbers.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Console-Input-Output\SumOfNNumbers\bin\Debug\SumOfNNumbers.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Console-Input-Output\SumOfNNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Console-Input-Output\SumOfNNumbers\obj\x86\Debug\SumOfNNumbers.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Console-Input-Output\SumOfNNumbers\obj\x86\Debug\SumOfNNumbers.pdb

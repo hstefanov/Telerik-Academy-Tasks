@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\5.SortStringArray\bin\Debug\5.SortStringArray.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\5.SortStringArray\bin\Debug\5.SortStringArray.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\5.SortStringArray\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\5.SortStringArray\obj\x86\Debug\5.SortStringArray.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\5.SortStringArray\obj\x86\Debug\5.SortStringArray.pdb

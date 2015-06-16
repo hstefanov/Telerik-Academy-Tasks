@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\7.DFS\bin\Debug\7.DFS.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\7.DFS\bin\Debug\7.DFS.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\7.DFS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\7.DFS\obj\x86\Debug\7.DFS.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\7.DFS\obj\x86\Debug\7.DFS.pdb

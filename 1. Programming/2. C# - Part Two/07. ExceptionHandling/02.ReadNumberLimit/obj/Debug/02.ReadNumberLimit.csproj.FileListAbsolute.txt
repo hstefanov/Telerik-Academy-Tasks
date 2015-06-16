@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\Exceptions\02.ReadNumberLimit\bin\Debug\02.ReadNumberLimit.exe.config
+C:\Users\vega31\Desktop\Projects\Exceptions\02.ReadNumberLimit\bin\Debug\02.ReadNumberLimit.exe
+C:\Users\vega31\Desktop\Projects\Exceptions\02.ReadNumberLimit\bin\Debug\02.ReadNumberLimit.pdb
+C:\Users\vega31\Desktop\Projects\Exceptions\02.ReadNumberLimit\obj\Debug\02.ReadNumberLimit.exe
+C:\Users\vega31\Desktop\Projects\Exceptions\02.ReadNumberLimit\obj\Debug\02.ReadNumberLimit.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\ExceptionHandling\02.ReadNumberLimit\bin\Debug\02.ReadNumberLimit.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\ExceptionHandling\02.ReadNumberLimit\bin\Debug\02.ReadNumberLimit.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\ExceptionHandling\02.ReadNumberLimit\bin\Debug\02.ReadNumberLimit.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\ExceptionHandling\02.ReadNumberLimit\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\ExceptionHandling\02.ReadNumberLimit\obj\Debug\02.ReadNumberLimit.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\ExceptionHandling\02.ReadNumberLimit\obj\Debug\02.ReadNumberLimit.pdb

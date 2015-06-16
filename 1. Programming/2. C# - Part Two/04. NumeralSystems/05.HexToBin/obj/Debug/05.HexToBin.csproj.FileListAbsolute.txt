@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\BinarySystems\05.HexToBin\bin\Debug\05.HexToBin.exe.config
+C:\Users\vega31\Desktop\Projects\BinarySystems\05.HexToBin\bin\Debug\05.HexToBin.exe
+C:\Users\vega31\Desktop\Projects\BinarySystems\05.HexToBin\bin\Debug\05.HexToBin.pdb
+C:\Users\vega31\Desktop\Projects\BinarySystems\05.HexToBin\obj\Debug\05.HexToBin.exe
+C:\Users\vega31\Desktop\Projects\BinarySystems\05.HexToBin\obj\Debug\05.HexToBin.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\05.HexToBin\bin\Debug\05.HexToBin.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\05.HexToBin\bin\Debug\05.HexToBin.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\05.HexToBin\bin\Debug\05.HexToBin.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\05.HexToBin\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\05.HexToBin\obj\Debug\05.HexToBin.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\05.HexToBin\obj\Debug\05.HexToBin.pdb

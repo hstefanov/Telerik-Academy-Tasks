@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\CheckThirdDigit\bin\Debug\CheckThirdDigit.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\CheckThirdDigit\bin\Debug\CheckThirdDigit.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\CheckThirdDigit\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\CheckThirdDigit\obj\x86\Debug\CheckThirdDigit.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\CheckThirdDigit\obj\x86\Debug\CheckThirdDigit.pdb

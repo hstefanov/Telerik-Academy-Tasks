@@ -1,0 +1,3 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\03.FirstNameBeforeLast\bin\Debug\03.FirstNameBeforeLast.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\03.FirstNameBeforeLast\obj\Debug\03.FirstNameBeforeLast.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\03.FirstNameBeforeLast\obj\Debug\03.FirstNameBeforeLast.pdb

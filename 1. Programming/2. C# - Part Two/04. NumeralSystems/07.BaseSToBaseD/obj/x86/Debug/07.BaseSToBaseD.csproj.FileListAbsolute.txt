@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\07.BaseSToBaseD\bin\Debug\07.BaseSToBaseD.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\07.BaseSToBaseD\bin\Debug\07.BaseSToBaseD.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\07.BaseSToBaseD\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\07.BaseSToBaseD\obj\x86\Debug\07.BaseSToBaseD.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\07.BaseSToBaseD\obj\x86\Debug\07.BaseSToBaseD.pdb

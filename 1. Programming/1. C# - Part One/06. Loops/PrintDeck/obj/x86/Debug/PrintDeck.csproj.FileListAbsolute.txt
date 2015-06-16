@@ -1,0 +1,7 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\PrintDeck\bin\Debug\PrintDeck.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\PrintDeck\bin\Debug\PrintDeck.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\PrintDeck\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\PrintDeck\obj\x86\Debug\PrintDeck.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\PrintDeck\obj\x86\Debug\PrintDeck.pdb
+D:\Telerik-Academy\1. Programming\1. C# - Part One\06. Loops\PrintDeck\obj\x86\Debug\PrintDeck.exe
+D:\Telerik-Academy\1. Programming\1. C# - Part One\06. Loops\PrintDeck\obj\x86\Debug\PrintDeck.pdb

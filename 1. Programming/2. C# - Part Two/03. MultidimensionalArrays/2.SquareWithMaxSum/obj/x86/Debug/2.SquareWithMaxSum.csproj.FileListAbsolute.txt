@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\2.SquareWithMaxSum\bin\Debug\2.SquareWithMaxSum.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\2.SquareWithMaxSum\bin\Debug\2.SquareWithMaxSum.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\2.SquareWithMaxSum\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\2.SquareWithMaxSum\obj\x86\Debug\2.SquareWithMaxSum.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\2.SquareWithMaxSum\obj\x86\Debug\2.SquareWithMaxSum.pdb

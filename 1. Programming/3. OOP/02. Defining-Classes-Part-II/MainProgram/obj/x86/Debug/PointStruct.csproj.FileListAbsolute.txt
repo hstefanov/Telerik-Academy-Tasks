@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-II\Defining-Classes-Part-II\MainProgram\bin\Debug\MainProgram.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-II\Defining-Classes-Part-II\MainProgram\bin\Debug\MainProgram.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-II\Defining-Classes-Part-II\MainProgram\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-II\Defining-Classes-Part-II\MainProgram\obj\x86\Debug\MainProgram.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-II\Defining-Classes-Part-II\MainProgram\obj\x86\Debug\MainProgram.pdb

@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Console-Input-Output\NumbersDivideByFive\bin\Debug\NumbersDivideByFive.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Console-Input-Output\NumbersDivideByFive\bin\Debug\NumbersDivideByFive.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Console-Input-Output\NumbersDivideByFive\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Console-Input-Output\NumbersDivideByFive\obj\x86\Debug\NumbersDivideByFive.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Console-Input-Output\NumbersDivideByFive\obj\x86\Debug\NumbersDivideByFive.pdb

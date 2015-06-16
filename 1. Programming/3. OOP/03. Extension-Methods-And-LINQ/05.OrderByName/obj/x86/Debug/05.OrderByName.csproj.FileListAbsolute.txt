@@ -1,0 +1,7 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\05.OrderByName\bin\Debug\05.OrderByName.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\05.OrderByName\bin\Debug\05.OrderByName.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\05.OrderByName\bin\Debug\09.StudentClass.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\05.OrderByName\bin\Debug\09.StudentClass.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\05.OrderByName\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\05.OrderByName\obj\x86\Debug\05.OrderByName.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\05.OrderByName\obj\x86\Debug\05.OrderByName.pdb

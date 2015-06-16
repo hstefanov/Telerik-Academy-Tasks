@@ -1,0 +1,10 @@
+C:\Users\vega31\Desktop\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Author-Solution\bin\Debug\SoftwareAcademy.exe
+C:\Users\vega31\Desktop\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Author-Solution\bin\Debug\SoftwareAcademy.pdb
+C:\Users\vega31\Desktop\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Author-Solution\obj\Debug\SoftwareAcademy.exe
+C:\Users\vega31\Desktop\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Author-Solution\obj\Debug\SoftwareAcademy.pdb
+C:\Users\vega31\Desktop\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Preparation-Solution\obj\Debug\SoftwareAcademy.exe
+C:\Users\vega31\Desktop\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Preparation-Solution\obj\Debug\SoftwareAcademy.pdb
+C:\Users\vega31\Desktop\OOP-Exam-March-2013-Variant-1\Exam-Preparation-OOP\SoftwareAcademy\obj\Debug\SoftwareAcademy.exe
+C:\Users\vega31\Desktop\OOP-Exam-March-2013-Variant-1\Exam-Preparation-OOP\SoftwareAcademy\obj\Debug\SoftwareAcademy.pdb
+K:\OOP-TeamWork\Exam-Preparation-OOP\SoftwareAcademy\obj\Debug\SoftwareAcademy.exe
+K:\OOP-TeamWork\Exam-Preparation-OOP\SoftwareAcademy\obj\Debug\SoftwareAcademy.pdb

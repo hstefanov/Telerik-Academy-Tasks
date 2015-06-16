@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: 23.ReplaceConsecutiveLetters, Configuration: Debug Any CPU ------
+1>  23.ReplaceConsecutiveLetters -> C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\23.ReplaceConsecutiveLetters\bin\Debug\23.ReplaceConsecutiveLetters.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\SignOfProduct\bin\Debug\SignOfProduct.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\SignOfProduct\bin\Debug\SignOfProduct.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\SignOfProduct\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\SignOfProduct\obj\x86\Debug\SignOfProduct.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\SignOfProduct\obj\x86\Debug\SignOfProduct.pdb

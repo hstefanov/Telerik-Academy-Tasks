@@ -1,0 +1,1 @@
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\24.PrintWordsInAlphabeticOrder\bin\Debug\24.PrintWordsInAlphabeticOrder.exe.config

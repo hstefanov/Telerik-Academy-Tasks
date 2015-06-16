@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\03.CompareArraysLexicographically\bin\Debug\03.CompareArraysLexicographically.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\03.CompareArraysLexicographically\bin\Debug\03.CompareArraysLexicographically.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\03.CompareArraysLexicographically\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\03.CompareArraysLexicographically\obj\x86\Debug\03.CompareArraysLexicographically.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\03.CompareArraysLexicographically\obj\x86\Debug\03.CompareArraysLexicographically.pdb

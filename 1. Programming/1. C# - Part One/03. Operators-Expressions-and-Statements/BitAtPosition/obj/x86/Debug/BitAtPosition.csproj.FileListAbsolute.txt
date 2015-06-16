@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\BitAtPosition\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\BitAtPosition\bin\Debug\BitAtPosition.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\BitAtPosition\bin\Debug\BitAtPosition.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\BitAtPosition\obj\x86\Debug\BitAtPosition.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\BitAtPosition\obj\x86\Debug\BitAtPosition.pdb

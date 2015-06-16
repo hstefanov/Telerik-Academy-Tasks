@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\10.ExtractWords\bin\Debug\10.ExtractWords.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\10.ExtractWords\bin\Debug\10.ExtractWords.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\10.ExtractWords\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\10.ExtractWords\obj\x86\Debug\10.ExtractWords.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\10.ExtractWords\obj\x86\Debug\10.ExtractWords.pdb

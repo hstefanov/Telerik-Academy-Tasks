@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\11.IndexOfLettersInWord\bin\Debug\11.IndexOfLettersInWord.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\11.IndexOfLettersInWord\bin\Debug\11.IndexOfLettersInWord.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\11.IndexOfLettersInWord\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\11.IndexOfLettersInWord\obj\x86\Debug\11.IndexOfLettersInWord.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\11.IndexOfLettersInWord\obj\x86\Debug\11.IndexOfLettersInWord.pdb

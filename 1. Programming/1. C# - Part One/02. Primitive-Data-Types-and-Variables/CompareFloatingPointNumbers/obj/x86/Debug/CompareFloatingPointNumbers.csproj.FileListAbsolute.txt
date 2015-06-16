@@ -1,0 +1,7 @@
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Primitive-Data-Types-and-Variables\CompareFloatingPointNumbers\bin\Debug\CompareFloatingPointNumbers.exe
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Primitive-Data-Types-and-Variables\CompareFloatingPointNumbers\bin\Debug\CompareFloatingPointNumbers.pdb
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Primitive-Data-Types-and-Variables\CompareFloatingPointNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Primitive-Data-Types-and-Variables\CompareFloatingPointNumbers\obj\x86\Debug\CompareFloatingPointNumbers.exe
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Primitive-Data-Types-and-Variables\CompareFloatingPointNumbers\obj\x86\Debug\CompareFloatingPointNumbers.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Primitive-Data-Types-and-Variables\CompareFloatingPointNumbers\obj\x86\Debug\CompareFloatingPointNumbers.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Primitive-Data-Types-and-Variables\CompareFloatingPointNumbers\obj\x86\Debug\CompareFloatingPointNumbers.pdb

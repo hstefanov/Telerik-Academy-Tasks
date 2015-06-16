@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\17.MaxLengthString\bin\Debug\17.MaxLengthString.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\17.MaxLengthString\bin\Debug\17.MaxLengthString.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\17.MaxLengthString\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\17.MaxLengthString\obj\x86\Debug\17.MaxLengthString.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\17.MaxLengthString\obj\x86\Debug\17.MaxLengthString.pdb

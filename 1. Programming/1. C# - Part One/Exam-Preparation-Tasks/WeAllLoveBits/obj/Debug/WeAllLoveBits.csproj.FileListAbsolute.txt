@@ -1,0 +1,6 @@
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe.config
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\WeAllLoveBits\bin\Debug\WeAllLoveBits.pdb
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\WeAllLoveBits\obj\Debug\WeAllLoveBits.csprojResolveAssemblyReference.cache
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\WeAllLoveBits\obj\Debug\WeAllLoveBits.exe
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\WeAllLoveBits\obj\Debug\WeAllLoveBits.pdb

@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\10.FindSequenceByGivenSum\bin\Debug\10.FindSequenceByGivenSum.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\10.FindSequenceByGivenSum\bin\Debug\10.FindSequenceByGivenSum.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\10.FindSequenceByGivenSum\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\10.FindSequenceByGivenSum\obj\x86\Debug\10.FindSequenceByGivenSum.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\10.FindSequenceByGivenSum\obj\x86\Debug\10.FindSequenceByGivenSum.pdb

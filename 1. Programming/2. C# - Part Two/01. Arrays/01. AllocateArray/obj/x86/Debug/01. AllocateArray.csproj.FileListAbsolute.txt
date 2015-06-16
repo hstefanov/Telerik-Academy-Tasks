@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\01. AllocateArray\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\01. AllocateArray\bin\Debug\_01.AllocateArray.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\01. AllocateArray\bin\Debug\_01.AllocateArray.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\01. AllocateArray\obj\x86\Debug\_01.AllocateArray.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\01. AllocateArray\obj\x86\Debug\_01.AllocateArray.pdb

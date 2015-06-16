@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\Methods\06.IndexOfBiggerElement\bin\Debug\06.IndexOfBiggerElement.exe.config
+C:\Users\vega31\Desktop\Projects\Methods\06.IndexOfBiggerElement\bin\Debug\06.IndexOfBiggerElement.exe
+C:\Users\vega31\Desktop\Projects\Methods\06.IndexOfBiggerElement\bin\Debug\06.IndexOfBiggerElement.pdb
+C:\Users\vega31\Desktop\Projects\Methods\06.IndexOfBiggerElement\obj\Debug\06.IndexOfBiggerElement.exe
+C:\Users\vega31\Desktop\Projects\Methods\06.IndexOfBiggerElement\obj\Debug\06.IndexOfBiggerElement.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\06.IndexOfBiggerElement\bin\Debug\06.IndexOfBiggerElement.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\06.IndexOfBiggerElement\bin\Debug\06.IndexOfBiggerElement.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\06.IndexOfBiggerElement\bin\Debug\06.IndexOfBiggerElement.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\06.IndexOfBiggerElement\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\06.IndexOfBiggerElement\obj\Debug\06.IndexOfBiggerElement.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\06.IndexOfBiggerElement\obj\Debug\06.IndexOfBiggerElement.pdb

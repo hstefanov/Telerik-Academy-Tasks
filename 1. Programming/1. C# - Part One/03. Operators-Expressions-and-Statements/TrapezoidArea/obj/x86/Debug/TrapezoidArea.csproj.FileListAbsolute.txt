@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\TrapezoidArea\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\TrapezoidArea\obj\x86\Debug\TrapezoidArea.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\TrapezoidArea\obj\x86\Debug\TrapezoidArea.pdb

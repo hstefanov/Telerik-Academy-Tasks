@@ -1,0 +1,6 @@
+C:\Users\vega31\Desktop\Projects\OOP-Principles-Part-I\01.ShcoolTest\bin\Debug\01.ShcoolTest.exe.config
+C:\Users\vega31\Desktop\Projects\OOP-Principles-Part-I\01.ShcoolTest\obj\Debug\01.ShcoolTest.csprojResolveAssemblyReference.cache
+C:\Users\vega31\Desktop\Projects\OOP-Principles-Part-I\01.ShcoolTest\bin\Debug\01.ShcoolTest.exe
+C:\Users\vega31\Desktop\Projects\OOP-Principles-Part-I\01.ShcoolTest\bin\Debug\01.ShcoolTest.pdb
+C:\Users\vega31\Desktop\Projects\OOP-Principles-Part-I\01.ShcoolTest\obj\Debug\01.ShcoolTest.exe
+C:\Users\vega31\Desktop\Projects\OOP-Principles-Part-I\01.ShcoolTest\obj\Debug\01.ShcoolTest.pdb

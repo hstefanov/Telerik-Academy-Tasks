@@ -1,0 +1,7 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\NumbersNotDivisibleBy3And7\bin\Debug\NumbersNotDivisibleBy3And7.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\NumbersNotDivisibleBy3And7\bin\Debug\NumbersNotDivisibleBy3And7.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\NumbersNotDivisibleBy3And7\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\NumbersNotDivisibleBy3And7\obj\x86\Debug\NumbersNotDivisibleBy3And7.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\NumbersNotDivisibleBy3And7\obj\x86\Debug\NumbersNotDivisibleBy3And7.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\NumbersNotDivisibleBy3And7\obj\x86\Debug\NumbersNotDivisibleBy3And7.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\NumbersNotDivisibleBy3And7\obj\x86\Debug\NumbersNotDivisibleBy3And7.pdb

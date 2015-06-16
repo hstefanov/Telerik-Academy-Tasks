@@ -1,0 +1,5 @@
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\AstrologicalDigits\bin\Debug\AstrologicalDigits.exe.config
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\AstrologicalDigits\bin\Debug\AstrologicalDigits.exe
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\AstrologicalDigits\bin\Debug\AstrologicalDigits.pdb
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\AstrologicalDigits\obj\Debug\AstrologicalDigits.exe
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\AstrologicalDigits\obj\Debug\AstrologicalDigits.pdb

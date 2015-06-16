@@ -1,0 +1,6 @@
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\05.Workdays\bin\Debug\05.Workdays.exe.config
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\05.Workdays\obj\Debug\05.Workdays.csprojResolveAssemblyReference.cache
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\05.Workdays\bin\Debug\05.Workdays.exe
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\05.Workdays\bin\Debug\05.Workdays.pdb
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\05.Workdays\obj\Debug\05.Workdays.exe
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\05.Workdays\obj\Debug\05.Workdays.pdb

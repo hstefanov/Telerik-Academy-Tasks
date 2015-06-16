@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\18.ExractByGroupName\obj\x86\Debug\18.ExractByGroupName.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\18.ExractByGroupName\obj\x86\Debug\18.ExractByGroupName.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\18.ExractByGroupName\bin\Debug\18.ExractByGroupName.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\18.ExractByGroupName\bin\Debug\18.ExractByGroupName.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\18.ExractByGroupName\obj\x86\Debug\ResolveAssemblyReference.cache

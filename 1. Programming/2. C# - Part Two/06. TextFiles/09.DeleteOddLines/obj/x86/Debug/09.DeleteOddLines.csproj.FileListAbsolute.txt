@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\09.DeleteOddLines\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\09.DeleteOddLines\obj\x86\Debug\09.DeleteOddLines.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\09.DeleteOddLines\obj\x86\Debug\09.DeleteOddLines.pdb

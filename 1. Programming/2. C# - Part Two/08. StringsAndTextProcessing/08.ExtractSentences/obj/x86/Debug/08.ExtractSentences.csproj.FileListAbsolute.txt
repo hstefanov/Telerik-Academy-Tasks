@@ -1,0 +1,9 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\08.ExtractSentences\bin\Debug\08.ExtractSentences.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\08.ExtractSentences\bin\Debug\08.ExtractSentences.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\08.ExtractSentences\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\08.ExtractSentences\obj\x86\Debug\08.ExtractSentences.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\08.ExtractSentences\obj\x86\Debug\08.ExtractSentences.pdb
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\08.ExtractSentences\obj\x86\Debug\08.ExtractSentences.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\08.ExtractSentences\obj\x86\Debug\08.ExtractSentences.pdb
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\08.ExtractSentences\bin\Debug\08.ExtractSentences.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\08.ExtractSentences\bin\Debug\08.ExtractSentences.pdb

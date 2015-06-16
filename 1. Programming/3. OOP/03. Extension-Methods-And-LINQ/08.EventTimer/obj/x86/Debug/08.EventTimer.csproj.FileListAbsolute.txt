@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\08.EventTimer\bin\Debug\08.EventTimer.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\08.EventTimer\bin\Debug\08.EventTimer.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\08.EventTimer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\08.EventTimer\obj\x86\Debug\08.EventTimer.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\08.EventTimer\obj\x86\Debug\08.EventTimer.pdb

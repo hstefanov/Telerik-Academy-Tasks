@@ -1,0 +1,8 @@
+K:\ExamPreparation\08.Zerg\bin\Debug\08.Zerg.exe.config
+K:\ExamPreparation\08.Zerg\bin\Debug\08.Zerg.exe
+K:\ExamPreparation\08.Zerg\bin\Debug\08.Zerg.pdb
+K:\ExamPreparation\08.Zerg\obj\Debug\08.Zerg.exe
+K:\ExamPreparation\08.Zerg\obj\Debug\08.Zerg.pdb
+G:\ExamPreparation\08.Zerg\bin\Debug\08.Zerg.exe.config
+G:\ExamPreparation\08.Zerg\obj\Debug\08.Zerg.exe
+G:\ExamPreparation\08.Zerg\obj\Debug\08.Zerg.pdb

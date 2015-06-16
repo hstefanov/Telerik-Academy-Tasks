@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\Methods\07.ReverseDigits\bin\Debug\07.ReverseDigits.exe.config
+C:\Users\vega31\Desktop\Projects\Methods\07.ReverseDigits\bin\Debug\07.ReverseDigits.exe
+C:\Users\vega31\Desktop\Projects\Methods\07.ReverseDigits\bin\Debug\07.ReverseDigits.pdb
+C:\Users\vega31\Desktop\Projects\Methods\07.ReverseDigits\obj\Debug\07.ReverseDigits.exe
+C:\Users\vega31\Desktop\Projects\Methods\07.ReverseDigits\obj\Debug\07.ReverseDigits.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\07.ReverseDigits\bin\Debug\07.ReverseDigits.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\07.ReverseDigits\bin\Debug\07.ReverseDigits.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\07.ReverseDigits\bin\Debug\07.ReverseDigits.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\07.ReverseDigits\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\07.ReverseDigits\obj\Debug\07.ReverseDigits.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\07.ReverseDigits\obj\Debug\07.ReverseDigits.pdb

@@ -1,0 +1,10 @@
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Primitive-Data-Types-and-Variables\PrintASCIITable\bin\Debug\PrintASCIITable.exe
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Primitive-Data-Types-and-Variables\PrintASCIITable\bin\Debug\PrintASCIITable.pdb
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Primitive-Data-Types-and-Variables\PrintASCIITable\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Primitive-Data-Types-and-Variables\PrintASCIITable\obj\x86\Debug\PrintASCIITable.exe
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Primitive-Data-Types-and-Variables\PrintASCIITable\obj\x86\Debug\PrintASCIITable.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Primitive-Data-Types-and-Variables\PrintASCIITable\obj\x86\Debug\PrintASCIITable.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Primitive-Data-Types-and-Variables\PrintASCIITable\obj\x86\Debug\PrintASCIITable.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Primitive-Data-Types-and-Variables\PrintASCIITable\bin\Debug\PrintASCIITable.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Primitive-Data-Types-and-Variables\PrintASCIITable\bin\Debug\PrintASCIITable.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Primitive-Data-Types-and-Variables\PrintASCIITable\obj\x86\Debug\ResolveAssemblyReference.cache

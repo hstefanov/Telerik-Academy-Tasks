@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\15.ReplaceHTMLTags\bin\Debug\15.ReplaceHTMLTags.exe.config
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\15.ReplaceHTMLTags\bin\Debug\15.ReplaceHTMLTags.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\15.ReplaceHTMLTags\bin\Debug\15.ReplaceHTMLTags.pdb
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\15.ReplaceHTMLTags\obj\Debug\15.ReplaceHTMLTags.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\15.ReplaceHTMLTags\obj\Debug\15.ReplaceHTMLTags.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\15.ReplaceHTMLTags\bin\Debug\15.ReplaceHTMLTags.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\15.ReplaceHTMLTags\bin\Debug\15.ReplaceHTMLTags.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\15.ReplaceHTMLTags\bin\Debug\15.ReplaceHTMLTags.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\15.ReplaceHTMLTags\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\15.ReplaceHTMLTags\obj\Debug\15.ReplaceHTMLTags.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\15.ReplaceHTMLTags\obj\Debug\15.ReplaceHTMLTags.pdb

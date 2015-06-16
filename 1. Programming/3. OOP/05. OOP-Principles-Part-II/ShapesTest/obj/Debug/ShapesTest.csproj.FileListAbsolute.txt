@@ -1,0 +1,6 @@
+C:\Users\vega31\Desktop\Projects\OOP-Principles-Part-II\ShapesTest\bin\Debug\ShapesTest.exe.config
+C:\Users\vega31\Desktop\Projects\OOP-Principles-Part-II\ShapesTest\bin\Debug\ShapesTest.exe
+C:\Users\vega31\Desktop\Projects\OOP-Principles-Part-II\ShapesTest\bin\Debug\ShapesTest.pdb
+C:\Users\vega31\Desktop\Projects\OOP-Principles-Part-II\ShapesTest\obj\Debug\ShapesTest.csprojResolveAssemblyReference.cache
+C:\Users\vega31\Desktop\Projects\OOP-Principles-Part-II\ShapesTest\obj\Debug\ShapesTest.exe
+C:\Users\vega31\Desktop\Projects\OOP-Principles-Part-II\ShapesTest\obj\Debug\ShapesTest.pdb

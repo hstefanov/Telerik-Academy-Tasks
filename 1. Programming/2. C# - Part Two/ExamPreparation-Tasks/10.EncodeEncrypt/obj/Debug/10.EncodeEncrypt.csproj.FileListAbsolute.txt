@@ -1,0 +1,12 @@
+K:\ExamPreparation\10.EncodeEncrypt\bin\Debug\10.EncodeEncrypt.exe.config
+K:\ExamPreparation\10.EncodeEncrypt\bin\Debug\10.EncodeEncrypt.exe
+K:\ExamPreparation\10.EncodeEncrypt\bin\Debug\10.EncodeEncrypt.pdb
+K:\ExamPreparation\10.EncodeEncrypt\obj\Debug\10.EncodeEncrypt.csprojResolveAssemblyReference.cache
+K:\ExamPreparation\10.EncodeEncrypt\obj\Debug\10.EncodeEncrypt.exe
+K:\ExamPreparation\10.EncodeEncrypt\obj\Debug\10.EncodeEncrypt.pdb
+G:\ExamPreparation\10.EncodeEncrypt\bin\Debug\10.EncodeEncrypt.exe.config
+G:\ExamPreparation\10.EncodeEncrypt\obj\Debug\10.EncodeEncrypt.exe
+G:\ExamPreparation\10.EncodeEncrypt\obj\Debug\10.EncodeEncrypt.pdb
+G:\ExamPreparation\10.EncodeEncrypt\bin\Debug\10.EncodeEncrypt.exe
+G:\ExamPreparation\10.EncodeEncrypt\bin\Debug\10.EncodeEncrypt.pdb
+G:\ExamPreparation\10.EncodeEncrypt\obj\Debug\10.EncodeEncrypt.csprojResolveAssemblyReference.cache

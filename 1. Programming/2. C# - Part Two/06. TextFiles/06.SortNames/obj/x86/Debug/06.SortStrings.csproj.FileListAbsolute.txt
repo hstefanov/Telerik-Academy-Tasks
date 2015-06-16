@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\06.SortNames\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\06.SortNames\bin\Debug\06.SortNames.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\06.SortNames\bin\Debug\06.SortNames.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\06.SortNames\obj\x86\Debug\06.SortNames.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\06.SortNames\obj\x86\Debug\06.SortNames.pdb

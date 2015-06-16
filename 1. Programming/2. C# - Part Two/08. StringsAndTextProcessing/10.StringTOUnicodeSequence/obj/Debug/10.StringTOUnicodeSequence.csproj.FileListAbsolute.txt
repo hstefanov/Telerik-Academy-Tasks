@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\10.StringTOUnicodeSequence\bin\Debug\10.StringTOUnicodeSequence.exe.config
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\10.StringTOUnicodeSequence\bin\Debug\10.StringTOUnicodeSequence.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\10.StringTOUnicodeSequence\bin\Debug\10.StringTOUnicodeSequence.pdb
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\10.StringTOUnicodeSequence\obj\Debug\10.StringTOUnicodeSequence.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\10.StringTOUnicodeSequence\obj\Debug\10.StringTOUnicodeSequence.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\10.StringTOUnicodeSequence\bin\Debug\10.StringTOUnicodeSequence.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\10.StringTOUnicodeSequence\bin\Debug\10.StringTOUnicodeSequence.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\10.StringTOUnicodeSequence\bin\Debug\10.StringTOUnicodeSequence.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\10.StringTOUnicodeSequence\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\10.StringTOUnicodeSequence\obj\Debug\10.StringTOUnicodeSequence.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\10.StringTOUnicodeSequence\obj\Debug\10.StringTOUnicodeSequence.pdb

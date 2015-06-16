@@ -1,0 +1,6 @@
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\DancingBits\bin\Debug\DancingBits.exe.config
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\DancingBits\bin\Debug\DancingBits.exe
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\DancingBits\bin\Debug\DancingBits.pdb
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\DancingBits\obj\Debug\DancingBits.exe
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\DancingBits\obj\Debug\DancingBits.pdb
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\DancingBits\obj\Debug\DancingBits.csprojResolveAssemblyReference.cache

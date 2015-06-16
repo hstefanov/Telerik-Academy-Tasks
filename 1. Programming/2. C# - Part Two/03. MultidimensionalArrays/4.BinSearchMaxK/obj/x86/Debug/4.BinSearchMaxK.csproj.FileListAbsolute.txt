@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\4.BinSearchMaxK\bin\Debug\4.BinSearchMaxK.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\4.BinSearchMaxK\bin\Debug\4.BinSearchMaxK.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\4.BinSearchMaxK\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\4.BinSearchMaxK\obj\x86\Debug\4.BinSearchMaxK.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\4.BinSearchMaxK\obj\x86\Debug\4.BinSearchMaxK.pdb

@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\WithinCircleOutRectangle\bin\Debug\WithinCircleOutRectangle.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\WithinCircleOutRectangle\bin\Debug\WithinCircleOutRectangle.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\WithinCircleOutRectangle\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\WithinCircleOutRectangle\obj\x86\Debug\WithinCircleOutRectangle.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\WithinCircleOutRectangle\obj\x86\Debug\WithinCircleOutRectangle.pdb

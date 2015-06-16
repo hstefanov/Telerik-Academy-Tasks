@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\3.SequencesInMatrix\bin\Debug\3.SequencesInMatrix.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\3.SequencesInMatrix\bin\Debug\3.SequencesInMatrix.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\3.SequencesInMatrix\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\3.SequencesInMatrix\obj\x86\Debug\3.SequencesInMatrix.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\MultidimensionalArrays\3.SequencesInMatrix\obj\x86\Debug\3.SequencesInMatrix.pdb

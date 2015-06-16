@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\24.PrintWordsInAlphabeticOrder\bin\Debug\24.PrintWordsInAlphabeticOrder.exe.config
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\24.PrintWordsInAlphabeticOrder\bin\Debug\24.PrintWordsInAlphabeticOrder.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\24.PrintWordsInAlphabeticOrder\bin\Debug\24.PrintWordsInAlphabeticOrder.pdb
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\24.PrintWordsInAlphabeticOrder\obj\Debug\24.PrintWordsInAlphabeticOrder.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\24.PrintWordsInAlphabeticOrder\obj\Debug\24.PrintWordsInAlphabeticOrder.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\24.PrintWordsInAlphabeticOrder\bin\Debug\24.PrintWordsInAlphabeticOrder.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\24.PrintWordsInAlphabeticOrder\bin\Debug\24.PrintWordsInAlphabeticOrder.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\24.PrintWordsInAlphabeticOrder\bin\Debug\24.PrintWordsInAlphabeticOrder.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\24.PrintWordsInAlphabeticOrder\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\24.PrintWordsInAlphabeticOrder\obj\Debug\24.PrintWordsInAlphabeticOrder.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\24.PrintWordsInAlphabeticOrder\obj\Debug\24.PrintWordsInAlphabeticOrder.pdb

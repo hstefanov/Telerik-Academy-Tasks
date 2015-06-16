@@ -1,0 +1,9 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\ExamPreparations\ExamPreparation\DurankulakNumbers\obj\x86\Debug\DurankulakNumbers.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\ExamPreparations\ExamPreparation\DurankulakNumbers\obj\x86\Debug\DurankulakNumbers.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\ExamPreparations\ExamPreparation\DurankulakNumbers\bin\Debug\DurankulakNumbers.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\ExamPreparations\ExamPreparation\DurankulakNumbers\bin\Debug\DurankulakNumbers.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\ExamPreparations\ExamPreparation\DurankulakNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ExamPreparation\DurankulakNumbers\obj\x86\Debug\DurankulakNumbers.exe
+K:\ExamPreparation\DurankulakNumbers\obj\x86\Debug\DurankulakNumbers.pdb
+G:\ExamPreparation\DurankulakNumbers\obj\x86\Debug\DurankulakNumbers.exe
+G:\ExamPreparation\DurankulakNumbers\obj\x86\Debug\DurankulakNumbers.pdb

@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\14.QuickSortAlgorithm\bin\Debug\14.QuickSortAlgorithm.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\14.QuickSortAlgorithm\bin\Debug\14.QuickSortAlgorithm.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\14.QuickSortAlgorithm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\14.QuickSortAlgorithm\obj\x86\Debug\14.QuickSortAlgorithm.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\14.QuickSortAlgorithm\obj\x86\Debug\14.QuickSortAlgorithm.pdb

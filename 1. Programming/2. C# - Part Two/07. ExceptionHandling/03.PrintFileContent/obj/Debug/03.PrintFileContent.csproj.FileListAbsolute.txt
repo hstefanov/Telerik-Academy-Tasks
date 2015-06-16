@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\Exceptions\03.PrintFileContent\bin\Debug\03.PrintFileContent.exe.config
+C:\Users\vega31\Desktop\Projects\Exceptions\03.PrintFileContent\bin\Debug\03.PrintFileContent.exe
+C:\Users\vega31\Desktop\Projects\Exceptions\03.PrintFileContent\bin\Debug\03.PrintFileContent.pdb
+C:\Users\vega31\Desktop\Projects\Exceptions\03.PrintFileContent\obj\Debug\03.PrintFileContent.exe
+C:\Users\vega31\Desktop\Projects\Exceptions\03.PrintFileContent\obj\Debug\03.PrintFileContent.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\ExceptionHandling\03.PrintFileContent\bin\Debug\03.PrintFileContent.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\ExceptionHandling\03.PrintFileContent\bin\Debug\03.PrintFileContent.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\ExceptionHandling\03.PrintFileContent\bin\Debug\03.PrintFileContent.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\ExceptionHandling\03.PrintFileContent\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\ExceptionHandling\03.PrintFileContent\obj\Debug\03.PrintFileContent.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\ExceptionHandling\03.PrintFileContent\obj\Debug\03.PrintFileContent.pdb

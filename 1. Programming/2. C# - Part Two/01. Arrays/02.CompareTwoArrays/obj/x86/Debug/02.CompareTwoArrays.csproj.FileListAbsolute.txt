@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\02.CompareTwoArrays\bin\Debug\02.CompareTwoArrays.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\02.CompareTwoArrays\bin\Debug\02.CompareTwoArrays.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\02.CompareTwoArrays\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\02.CompareTwoArrays\obj\x86\Debug\02.CompareTwoArrays.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\02.CompareTwoArrays\obj\x86\Debug\02.CompareTwoArrays.pdb

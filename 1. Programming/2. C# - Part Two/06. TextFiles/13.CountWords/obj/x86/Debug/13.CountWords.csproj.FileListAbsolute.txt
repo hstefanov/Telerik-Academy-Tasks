@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\13.CountWords\bin\Debug\13.CountWords.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\13.CountWords\bin\Debug\13.CountWords.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\13.CountWords\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\13.CountWords\obj\x86\Debug\13.CountWords.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\13.CountWords\obj\x86\Debug\13.CountWords.pdb

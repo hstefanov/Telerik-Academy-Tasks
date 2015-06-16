@@ -1,0 +1,5 @@
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\SubsetSumProblem\bin\Debug\SubsetSumProblem.exe.config
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\SubsetSumProblem\bin\Debug\SubsetSumProblem.exe
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\SubsetSumProblem\bin\Debug\SubsetSumProblem.pdb
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\SubsetSumProblem\obj\Debug\SubsetSumProblem.exe
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\SubsetSumProblem\obj\Debug\SubsetSumProblem.pdb

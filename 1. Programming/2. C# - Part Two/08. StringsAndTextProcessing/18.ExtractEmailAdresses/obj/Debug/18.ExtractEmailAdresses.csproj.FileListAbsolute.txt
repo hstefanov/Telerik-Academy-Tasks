@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\18.ExtractEmailAdresses\bin\Debug\18.ExtractEmailAdresses.exe.config
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\18.ExtractEmailAdresses\bin\Debug\18.ExtractEmailAdresses.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\18.ExtractEmailAdresses\bin\Debug\18.ExtractEmailAdresses.pdb
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\18.ExtractEmailAdresses\obj\Debug\18.ExtractEmailAdresses.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\18.ExtractEmailAdresses\obj\Debug\18.ExtractEmailAdresses.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\18.ExtractEmailAdresses\bin\Debug\18.ExtractEmailAdresses.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\18.ExtractEmailAdresses\bin\Debug\18.ExtractEmailAdresses.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\18.ExtractEmailAdresses\bin\Debug\18.ExtractEmailAdresses.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\18.ExtractEmailAdresses\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\18.ExtractEmailAdresses\obj\Debug\18.ExtractEmailAdresses.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\18.ExtractEmailAdresses\obj\Debug\18.ExtractEmailAdresses.pdb

@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\ExchangeValues\bin\Debug\ExchangeValues.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\ExchangeValues\bin\Debug\ExchangeValues.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\ExchangeValues\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\ExchangeValues\obj\x86\Debug\ExchangeValues.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\ExchangeValues\obj\x86\Debug\ExchangeValues.pdb

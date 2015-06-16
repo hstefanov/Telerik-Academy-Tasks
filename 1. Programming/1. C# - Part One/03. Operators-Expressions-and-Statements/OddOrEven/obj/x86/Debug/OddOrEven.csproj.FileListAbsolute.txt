@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\OddOrEven\bin\Debug\OddOrEven.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\OddOrEven\bin\Debug\OddOrEven.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\OddOrEven\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\OddOrEven\obj\x86\Debug\OddOrEven.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\OddOrEven\obj\x86\Debug\OddOrEven.pdb

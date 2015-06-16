@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\09.ReplaceWithAsteriks\bin\Debug\09.ReplaceWithAsteriks.exe.config
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\09.ReplaceWithAsteriks\bin\Debug\09.ReplaceWithAsteriks.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\09.ReplaceWithAsteriks\bin\Debug\09.ReplaceWithAsteriks.pdb
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\09.ReplaceWithAsteriks\obj\Debug\09.ReplaceWithAsteriks.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\09.ReplaceWithAsteriks\obj\Debug\09.ReplaceWithAsteriks.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\09.ReplaceWithAsteriks\bin\Debug\09.ReplaceWithAsteriks.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\09.ReplaceWithAsteriks\bin\Debug\09.ReplaceWithAsteriks.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\09.ReplaceWithAsteriks\bin\Debug\09.ReplaceWithAsteriks.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\09.ReplaceWithAsteriks\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\09.ReplaceWithAsteriks\obj\Debug\09.ReplaceWithAsteriks.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\09.ReplaceWithAsteriks\obj\Debug\09.ReplaceWithAsteriks.pdb

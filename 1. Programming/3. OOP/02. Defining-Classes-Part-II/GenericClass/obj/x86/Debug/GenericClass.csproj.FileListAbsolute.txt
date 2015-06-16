@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-II\Defining-Classes-Part-II\GenericClass\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-II\Defining-Classes-Part-II\GenericClass\bin\Debug\GenericClass.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-II\Defining-Classes-Part-II\GenericClass\bin\Debug\GenericClass.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-II\Defining-Classes-Part-II\GenericClass\obj\x86\Debug\GenericClass.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-II\Defining-Classes-Part-II\GenericClass\obj\x86\Debug\GenericClass.pdb

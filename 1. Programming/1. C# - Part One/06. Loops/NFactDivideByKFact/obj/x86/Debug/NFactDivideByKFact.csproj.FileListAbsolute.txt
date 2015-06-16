@@ -1,0 +1,9 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\NFactDivideByKFact\bin\Debug\NFactDivideByKFact.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\NFactDivideByKFact\bin\Debug\NFactDivideByKFact.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\NFactDivideByKFact\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\NFactDivideByKFact\obj\x86\Debug\NFactDivideByKFact.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\NFactDivideByKFact\obj\x86\Debug\NFactDivideByKFact.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\NFactDivideByKFact\obj\x86\Debug\NFactDivideByKFact.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\NFactDivideByKFact\obj\x86\Debug\NFactDivideByKFact.pdb
+D:\Telerik-Academy\1. Programming\1. C# - Part One\06. Loops\NFactDivideByKFact\obj\x86\Debug\NFactDivideByKFact.exe
+D:\Telerik-Academy\1. Programming\1. C# - Part One\06. Loops\NFactDivideByKFact\obj\x86\Debug\NFactDivideByKFact.pdb

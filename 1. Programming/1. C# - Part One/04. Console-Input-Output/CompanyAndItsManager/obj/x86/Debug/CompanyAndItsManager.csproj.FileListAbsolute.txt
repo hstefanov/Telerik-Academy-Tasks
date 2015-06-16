@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Console-Input-Output\CompanyAndItsManager\bin\Debug\CompanyAndItsManager.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Console-Input-Output\CompanyAndItsManager\bin\Debug\CompanyAndItsManager.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Console-Input-Output\CompanyAndItsManager\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Console-Input-Output\CompanyAndItsManager\obj\x86\Debug\CompanyAndItsManager.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Console-Input-Output\CompanyAndItsManager\obj\x86\Debug\CompanyAndItsManager.pdb

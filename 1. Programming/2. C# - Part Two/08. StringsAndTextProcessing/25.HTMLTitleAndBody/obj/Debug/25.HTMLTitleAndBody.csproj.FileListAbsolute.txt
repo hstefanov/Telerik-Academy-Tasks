@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\25.HTMLTitleAndBody\bin\Debug\25.HTMLTitleAndBody.exe.config
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\25.HTMLTitleAndBody\bin\Debug\25.HTMLTitleAndBody.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\25.HTMLTitleAndBody\bin\Debug\25.HTMLTitleAndBody.pdb
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\25.HTMLTitleAndBody\obj\Debug\25.HTMLTitleAndBody.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\25.HTMLTitleAndBody\obj\Debug\25.HTMLTitleAndBody.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\25.HTMLTitleAndBody\bin\Debug\25.HTMLTitleAndBody.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\25.HTMLTitleAndBody\obj\Debug\25.HTMLTitleAndBody.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\25.HTMLTitleAndBody\obj\Debug\25.HTMLTitleAndBody.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\25.HTMLTitleAndBody\bin\Debug\25.HTMLTitleAndBody.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\25.HTMLTitleAndBody\bin\Debug\25.HTMLTitleAndBody.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\25.HTMLTitleAndBody\obj\Debug\ResolveAssemblyReference.cache

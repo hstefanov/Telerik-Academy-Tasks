@@ -1,0 +1,5 @@
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\02.RandomValues\bin\Debug\02.RandomValues.exe.config
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\02.RandomValues\bin\Debug\02.RandomValues.exe
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\02.RandomValues\bin\Debug\02.RandomValues.pdb
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\02.RandomValues\obj\Debug\02.RandomValues.exe
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\02.RandomValues\obj\Debug\02.RandomValues.pdb

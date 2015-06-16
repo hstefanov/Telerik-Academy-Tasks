@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\04.CompareTextFiles\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\04.CompareTextFiles\obj\x86\Debug\04.CompareTextFiles.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\04.CompareTextFiles\obj\x86\Debug\04.CompareTextFiles.pdb

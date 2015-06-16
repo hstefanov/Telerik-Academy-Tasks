@@ -1,0 +1,7 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\NFactMultiplyByKFact\bin\Debug\NFactMultiplyByKFact.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\NFactMultiplyByKFact\bin\Debug\NFactMultiplyByKFact.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\NFactMultiplyByKFact\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\NFactMultiplyByKFact\obj\x86\Debug\NFactMultiplyByKFact.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\NFactMultiplyByKFact\obj\x86\Debug\NFactMultiplyByKFact.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\NFactMultiplyByKFact\obj\x86\Debug\NFactMultiplyByKFact.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\NFactMultiplyByKFact\obj\x86\Debug\NFactMultiplyByKFact.pdb

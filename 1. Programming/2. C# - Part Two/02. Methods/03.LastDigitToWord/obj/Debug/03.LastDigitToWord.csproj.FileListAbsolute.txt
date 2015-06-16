@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\Methods\03.LastDigitToWord\bin\Debug\03.LastDigitToWord.exe.config
+C:\Users\vega31\Desktop\Projects\Methods\03.LastDigitToWord\bin\Debug\03.LastDigitToWord.exe
+C:\Users\vega31\Desktop\Projects\Methods\03.LastDigitToWord\bin\Debug\03.LastDigitToWord.pdb
+C:\Users\vega31\Desktop\Projects\Methods\03.LastDigitToWord\obj\Debug\03.LastDigitToWord.exe
+C:\Users\vega31\Desktop\Projects\Methods\03.LastDigitToWord\obj\Debug\03.LastDigitToWord.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\03.LastDigitToWord\bin\Debug\03.LastDigitToWord.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\03.LastDigitToWord\bin\Debug\03.LastDigitToWord.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\03.LastDigitToWord\bin\Debug\03.LastDigitToWord.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\03.LastDigitToWord\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\03.LastDigitToWord\obj\Debug\03.LastDigitToWord.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\03.LastDigitToWord\obj\Debug\03.LastDigitToWord.pdb

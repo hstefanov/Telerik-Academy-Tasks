@@ -1,0 +1,9 @@
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\17.AfterSixHours\bin\Debug\17.AfterSixHours.exe.config
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\17.AfterSixHours\obj\Debug\17.AfterSixHours.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\17.AfterSixHours\obj\Debug\17.AfterSixHours.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\17.AfterSixHours\bin\Debug\17.AfterSixHours.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\17.AfterSixHours\bin\Debug\17.AfterSixHours.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\17.AfterSixHours\bin\Debug\17.AfterSixHours.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\17.AfterSixHours\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\17.AfterSixHours\obj\Debug\17.AfterSixHours.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\17.AfterSixHours\obj\Debug\17.AfterSixHours.pdb

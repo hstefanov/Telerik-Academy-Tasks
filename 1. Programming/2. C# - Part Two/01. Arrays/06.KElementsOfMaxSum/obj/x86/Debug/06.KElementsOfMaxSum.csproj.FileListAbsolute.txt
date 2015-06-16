@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\06.KElementsOfMaxSum\bin\Debug\06.KElementsOfMaxSum.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\06.KElementsOfMaxSum\bin\Debug\06.KElementsOfMaxSum.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\06.KElementsOfMaxSum\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\06.KElementsOfMaxSum\obj\x86\Debug\06.KElementsOfMaxSum.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\06.KElementsOfMaxSum\obj\x86\Debug\06.KElementsOfMaxSum.pdb

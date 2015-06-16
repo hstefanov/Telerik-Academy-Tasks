@@ -1,0 +1,7 @@
+C:\Users\vega31\Desktop\OOP-Exam-March-2013-Variant-2\HTMLRenderer-Skeleton\bin\Debug\HTMLRenderer.exe
+C:\Users\vega31\Desktop\OOP-Exam-March-2013-Variant-2\HTMLRenderer-Skeleton\bin\Debug\HTMLRenderer.pdb
+C:\Users\vega31\Desktop\OOP-Exam-March-2013-Variant-2\HTMLRenderer-Skeleton\obj\Debug\HTMLRenderer.csprojResolveAssemblyReference.cache
+C:\Users\vega31\Desktop\OOP-Exam-March-2013-Variant-2\HTMLRenderer-Skeleton\obj\Debug\HTMLRenderer.exe
+C:\Users\vega31\Desktop\OOP-Exam-March-2013-Variant-2\HTMLRenderer-Skeleton\obj\Debug\HTMLRenderer.pdb
+C:\Users\vega31\Desktop\OOP-Exam-March-2013-Variant-2\HTMLRenderer\obj\Debug\HTMLRenderer.exe
+C:\Users\vega31\Desktop\OOP-Exam-March-2013-Variant-2\HTMLRenderer\obj\Debug\HTMLRenderer.pdb

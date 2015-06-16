@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\22.CountWords\bin\Debug\22.CountWords.exe.config
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\22.CountWords\bin\Debug\22.CountWords.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\22.CountWords\bin\Debug\22.CountWords.pdb
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\22.CountWords\obj\Debug\22.CountWords.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\22.CountWords\obj\Debug\22.CountWords.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\22.CountWords\bin\Debug\22.CountWords.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\22.CountWords\bin\Debug\22.CountWords.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\22.CountWords\bin\Debug\22.CountWords.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\22.CountWords\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\22.CountWords\obj\Debug\22.CountWords.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\22.CountWords\obj\Debug\22.CountWords.pdb

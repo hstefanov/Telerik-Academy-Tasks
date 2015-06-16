@@ -1,0 +1,7 @@
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Primitive-Data-Types-and-Variables\AssignIntegerWithHexValue\bin\Debug\AssignIntegerWithHexValue.exe
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Primitive-Data-Types-and-Variables\AssignIntegerWithHexValue\bin\Debug\AssignIntegerWithHexValue.pdb
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Primitive-Data-Types-and-Variables\AssignIntegerWithHexValue\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Primitive-Data-Types-and-Variables\AssignIntegerWithHexValue\obj\x86\Debug\AssignIntegerWithHexValue.exe
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Primitive-Data-Types-and-Variables\AssignIntegerWithHexValue\obj\x86\Debug\AssignIntegerWithHexValue.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Primitive-Data-Types-and-Variables\AssignIntegerWithHexValue\obj\x86\Debug\AssignIntegerWithHexValue.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Primitive-Data-Types-and-Variables\AssignIntegerWithHexValue\obj\x86\Debug\AssignIntegerWithHexValue.pdb

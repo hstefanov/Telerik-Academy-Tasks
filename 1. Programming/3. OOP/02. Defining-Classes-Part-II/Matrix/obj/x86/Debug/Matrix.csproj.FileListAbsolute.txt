@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-II\Defining-Classes-Part-II\Matrix\bin\Debug\Matrix.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-II\Defining-Classes-Part-II\Matrix\bin\Debug\Matrix.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-II\Defining-Classes-Part-II\Matrix\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-II\Defining-Classes-Part-II\Matrix\obj\x86\Debug\Matrix.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-II\Defining-Classes-Part-II\Matrix\obj\x86\Debug\Matrix.pdb

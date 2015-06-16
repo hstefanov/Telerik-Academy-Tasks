@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\BinarySystems\02.BinToDec\bin\Debug\02.BinToDec.exe.config
+C:\Users\vega31\Desktop\Projects\BinarySystems\02.BinToDec\bin\Debug\02.BinToDec.exe
+C:\Users\vega31\Desktop\Projects\BinarySystems\02.BinToDec\bin\Debug\02.BinToDec.pdb
+C:\Users\vega31\Desktop\Projects\BinarySystems\02.BinToDec\obj\Debug\02.BinToDec.exe
+C:\Users\vega31\Desktop\Projects\BinarySystems\02.BinToDec\obj\Debug\02.BinToDec.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\02.BinToDec\bin\Debug\02.BinToDec.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\02.BinToDec\bin\Debug\02.BinToDec.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\02.BinToDec\bin\Debug\02.BinToDec.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\02.BinToDec\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\02.BinToDec\obj\Debug\02.BinToDec.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\02.BinToDec\obj\Debug\02.BinToDec.pdb

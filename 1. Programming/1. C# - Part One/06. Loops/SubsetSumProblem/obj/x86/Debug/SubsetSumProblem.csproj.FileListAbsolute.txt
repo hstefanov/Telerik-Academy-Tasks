@@ -1,0 +1,7 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\SubsetSumProblem\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\SubsetSumProblem\bin\Debug\SubsetSumProblem.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\SubsetSumProblem\bin\Debug\SubsetSumProblem.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\SubsetSumProblem\obj\x86\Debug\SubsetSumProblem.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\SubsetSumProblem\obj\x86\Debug\SubsetSumProblem.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\SubsetSumProblem\obj\x86\Debug\SubsetSumProblem.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\SubsetSumProblem\obj\x86\Debug\SubsetSumProblem.pdb

@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\CatalanNumbersSimple\bin\Debug\CatalanNumbersSimple.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\CatalanNumbersSimple\bin\Debug\CatalanNumbersSimple.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\CatalanNumbersSimple\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\CatalanNumbersSimple\obj\x86\Debug\CatalanNumbersSimple.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\CatalanNumbersSimple\obj\x86\Debug\CatalanNumbersSimple.pdb

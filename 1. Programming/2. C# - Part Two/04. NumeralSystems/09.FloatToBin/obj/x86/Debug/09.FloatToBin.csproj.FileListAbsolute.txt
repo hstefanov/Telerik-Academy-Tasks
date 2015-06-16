@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\09.FloatToBin\bin\Debug\09.FloatToBin.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\09.FloatToBin\bin\Debug\09.FloatToBin.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\09.FloatToBin\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\09.FloatToBin\obj\x86\Debug\09.FloatToBin.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\09.FloatToBin\obj\x86\Debug\09.FloatToBin.pdb

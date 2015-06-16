@@ -1,0 +1,5 @@
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\FirTree\bin\Debug\FirTree.exe.config
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\FirTree\bin\Debug\FirTree.exe
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\FirTree\bin\Debug\FirTree.pdb
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\FirTree\obj\Debug\FirTree.exe
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\FirTree\obj\Debug\FirTree.pdb

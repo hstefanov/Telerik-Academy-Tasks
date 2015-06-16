@@ -1,0 +1,6 @@
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\OddNumber\bin\Debug\OddNumber.exe.config
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\OddNumber\bin\Debug\OddNumber.exe
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\OddNumber\bin\Debug\OddNumber.pdb
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\OddNumber\obj\Debug\OddNumber.csprojResolveAssemblyReference.cache
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\OddNumber\obj\Debug\OddNumber.exe
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\OddNumber\obj\Debug\OddNumber.pdb

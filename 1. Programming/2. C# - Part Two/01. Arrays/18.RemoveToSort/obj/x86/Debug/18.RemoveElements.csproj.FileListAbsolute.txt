@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\18.RemoveToSort\bin\Debug\18.RemoveToSort.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\18.RemoveToSort\bin\Debug\18.RemoveToSort.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\18.RemoveToSort\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\18.RemoveToSort\obj\x86\Debug\18.RemoveToSort.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\18.RemoveToSort\obj\x86\Debug\18.RemoveToSort.pdb

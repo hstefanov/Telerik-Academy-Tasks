@@ -1,0 +1,8 @@
+C:\Users\vega31\Desktop\Projects\Methods\10.CalculateNFactorial\bin\Debug\10.CalculateNFactorial.exe.config
+C:\Users\vega31\Desktop\Projects\Methods\10.CalculateNFactorial\obj\Debug\10.CalculateNFactorial.csprojResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\10.CalculateNFactorial\bin\Debug\10.CalculateNFactorial.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\10.CalculateNFactorial\bin\Debug\10.CalculateNFactorial.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\10.CalculateNFactorial\bin\Debug\10.CalculateNFactorial.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\10.CalculateNFactorial\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\10.CalculateNFactorial\obj\Debug\10.CalculateNFactorial.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\10.CalculateNFactorial\obj\Debug\10.CalculateNFactorial.pdb

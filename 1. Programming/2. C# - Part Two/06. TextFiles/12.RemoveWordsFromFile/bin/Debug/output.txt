@@ -1,0 +1,1 @@
+# (pronounced "see " or " Sharp") is one of many .NET programming languages. It is object-oriented and allows you to build reusable components for a wide variety of application types  introduced # on June 26th, 2000 and it became a v1.0 product on Feb 13th 2002.

@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\06.BinToHex\bin\Debug\06.BinToHex.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\06.BinToHex\bin\Debug\06.BinToHex.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\06.BinToHex\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\06.BinToHex\obj\x86\Debug\06.BinToHex.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\04.NumeralSystems\06.BinToHex\obj\x86\Debug\06.BinToHex.pdb

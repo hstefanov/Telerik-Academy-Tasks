@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\11.DeleteWordsPrefix\bin\Debug\11.DeleteWordsPrefix.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\11.DeleteWordsPrefix\bin\Debug\11.DeleteWordsPrefix.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\11.DeleteWordsPrefix\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\11.DeleteWordsPrefix\obj\x86\Debug\11.DeleteWordsPrefix.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\11.DeleteWordsPrefix\obj\x86\Debug\11.DeleteWordsPrefix.pdb

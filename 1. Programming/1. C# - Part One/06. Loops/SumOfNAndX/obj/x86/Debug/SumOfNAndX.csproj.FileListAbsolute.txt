@@ -1,0 +1,7 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\SumOfNAndX\bin\Debug\SumOfNAndX.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\SumOfNAndX\bin\Debug\SumOfNAndX.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\SumOfNAndX\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\SumOfNAndX\obj\x86\Debug\SumOfNAndX.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\SumOfNAndX\obj\x86\Debug\SumOfNAndX.pdb
+D:\Telerik-Academy\1. Programming\1. C# - Part One\06. Loops\SumOfNAndX\obj\x86\Debug\SumOfNAndX.exe
+D:\Telerik-Academy\1. Programming\1. C# - Part One\06. Loops\SumOfNAndX\obj\x86\Debug\SumOfNAndX.pdb

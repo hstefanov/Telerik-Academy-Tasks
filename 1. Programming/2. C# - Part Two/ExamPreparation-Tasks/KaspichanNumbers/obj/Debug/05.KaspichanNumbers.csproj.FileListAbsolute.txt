@@ -1,0 +1,6 @@
+K:\ExamPreparation\KaspichanNumbers\obj\Debug\05.KaspichanNumbers.csprojResolveAssemblyReference.cache
+K:\ExamPreparation\KaspichanNumbers\bin\Debug\KaspichanNumbers.exe.config
+K:\ExamPreparation\KaspichanNumbers\bin\Debug\KaspichanNumbers.exe
+K:\ExamPreparation\KaspichanNumbers\bin\Debug\KaspichanNumbers.pdb
+K:\ExamPreparation\KaspichanNumbers\obj\Debug\KaspichanNumbers.exe
+K:\ExamPreparation\KaspichanNumbers\obj\Debug\KaspichanNumbers.pdb

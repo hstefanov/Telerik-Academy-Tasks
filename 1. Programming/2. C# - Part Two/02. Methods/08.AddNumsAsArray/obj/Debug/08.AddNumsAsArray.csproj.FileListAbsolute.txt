@@ -1,0 +1,12 @@
+C:\Users\vega31\Desktop\Projects\Methods\08.AddNumsAsArray\bin\Debug\08.AddNumsAsArray.exe.config
+C:\Users\vega31\Desktop\Projects\Methods\08.AddNumsAsArray\bin\Debug\08.AddNumsAsArray.exe
+C:\Users\vega31\Desktop\Projects\Methods\08.AddNumsAsArray\bin\Debug\08.AddNumsAsArray.pdb
+C:\Users\vega31\Desktop\Projects\Methods\08.AddNumsAsArray\obj\Debug\08.AddNumsAsArray.exe
+C:\Users\vega31\Desktop\Projects\Methods\08.AddNumsAsArray\obj\Debug\08.AddNumsAsArray.pdb
+C:\Users\vega31\Desktop\Projects\Methods\08.AddNumsAsArray\obj\Debug\08.AddNumsAsArray.csprojResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\08.AddNumsAsArray\bin\Debug\08.AddNumsAsArray.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\08.AddNumsAsArray\bin\Debug\08.AddNumsAsArray.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\08.AddNumsAsArray\bin\Debug\08.AddNumsAsArray.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\08.AddNumsAsArray\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\08.AddNumsAsArray\obj\Debug\08.AddNumsAsArray.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\08.AddNumsAsArray\obj\Debug\08.AddNumsAsArray.pdb

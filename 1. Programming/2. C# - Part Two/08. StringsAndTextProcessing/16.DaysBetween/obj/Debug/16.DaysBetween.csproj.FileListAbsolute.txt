@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\16.DaysBetween\bin\Debug\16.DaysBetween.exe.config
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\16.DaysBetween\bin\Debug\16.DaysBetween.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\16.DaysBetween\bin\Debug\16.DaysBetween.pdb
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\16.DaysBetween\obj\Debug\16.DaysBetween.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\16.DaysBetween\obj\Debug\16.DaysBetween.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\16.DaysBetween\bin\Debug\16.DaysBetween.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\16.DaysBetween\bin\Debug\16.DaysBetween.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\16.DaysBetween\bin\Debug\16.DaysBetween.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\16.DaysBetween\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\16.DaysBetween\obj\Debug\16.DaysBetween.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\16.DaysBetween\obj\Debug\16.DaysBetween.pdb

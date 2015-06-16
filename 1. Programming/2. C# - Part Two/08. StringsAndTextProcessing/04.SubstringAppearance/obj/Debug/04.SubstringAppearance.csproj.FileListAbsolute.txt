@@ -1,0 +1,12 @@
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\04.SubstringAppearance\bin\Debug\04.SubstringAppearance.exe.config
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\04.SubstringAppearance\bin\Debug\04.SubstringAppearance.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\04.SubstringAppearance\bin\Debug\04.SubstringAppearance.pdb
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\04.SubstringAppearance\obj\Debug\04.SubstringAppearance.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\04.SubstringAppearance\obj\Debug\04.SubstringAppearance.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\04.SubstringAppearance\bin\Debug\04.SubstringAppearance.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\04.SubstringAppearance\bin\Debug\04.SubstringAppearance.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\04.SubstringAppearance\bin\Debug\04.SubstringAppearance.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\04.SubstringAppearance\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\04.SubstringAppearance\obj\Debug\04.SubstringAppearance.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\04.SubstringAppearance\obj\Debug\04.SubstringAppearance.pdb
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\04.SubstringAppearance\obj\Debug\04.SubstringAppearance.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\Extension-Methods-And-LINQ\02.IEnumerableExtension\bin\Debug\02.IEnumerableExtension.exe.config
+C:\Users\vega31\Desktop\Projects\Extension-Methods-And-LINQ\02.IEnumerableExtension\bin\Debug\02.IEnumerableExtension.exe
+C:\Users\vega31\Desktop\Projects\Extension-Methods-And-LINQ\02.IEnumerableExtension\bin\Debug\02.IEnumerableExtension.pdb
+C:\Users\vega31\Desktop\Projects\Extension-Methods-And-LINQ\02.IEnumerableExtension\obj\Debug\02.IEnumerableExtension.exe
+C:\Users\vega31\Desktop\Projects\Extension-Methods-And-LINQ\02.IEnumerableExtension\obj\Debug\02.IEnumerableExtension.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\02.IEnumerableExtension\bin\Debug\02.IEnumerableExtension.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\02.IEnumerableExtension\bin\Debug\02.IEnumerableExtension.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\02.IEnumerableExtension\bin\Debug\02.IEnumerableExtension.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\02.IEnumerableExtension\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\02.IEnumerableExtension\obj\Debug\02.IEnumerableExtension.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\02.IEnumerableExtension\obj\Debug\02.IEnumerableExtension.pdb

@@ -1,0 +1,12 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\GreatestCommonDivisor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\GreatestCommonDivisor\obj\x86\Debug\GreatestCommonDivisor.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\GreatestCommonDivisor\obj\x86\Debug\GreatestCommonDivisor.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\GreatestCommonDivisor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\GreatestCommonDivisor\obj\x86\Debug\GreatestCommonDivisor.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\GreatestCommonDivisor\obj\x86\Debug\GreatestCommonDivisor.pdb
+D:\Telerik-Academy\1. Programming\1. C# - Part One\06. Loops\GreatestCommonDivisor\obj\x86\Debug\GreatestCommonDivisor.exe
+D:\Telerik-Academy\1. Programming\1. C# - Part One\06. Loops\GreatestCommonDivisor\obj\x86\Debug\GreatestCommonDivisor.pdb

@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\11.NumberNotation\bin\Debug\11.NumberNotation.exe.config
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\11.NumberNotation\bin\Debug\11.NumberNotation.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\11.NumberNotation\bin\Debug\11.NumberNotation.pdb
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\11.NumberNotation\obj\Debug\11.NumberNotation.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\11.NumberNotation\obj\Debug\11.NumberNotation.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\11.NumberNotation\bin\Debug\11.NumberNotation.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\11.NumberNotation\bin\Debug\11.NumberNotation.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\11.NumberNotation\bin\Debug\11.NumberNotation.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\11.NumberNotation\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\11.NumberNotation\obj\Debug\11.NumberNotation.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\11.NumberNotation\obj\Debug\11.NumberNotation.pdb

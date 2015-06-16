@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\20.Palindromes\bin\Debug\20.Palindromes.exe.config
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\20.Palindromes\bin\Debug\20.Palindromes.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\20.Palindromes\bin\Debug\20.Palindromes.pdb
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\20.Palindromes\obj\Debug\20.Palindromes.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\20.Palindromes\obj\Debug\20.Palindromes.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\20.Palindromes\bin\Debug\20.Palindromes.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\20.Palindromes\bin\Debug\20.Palindromes.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\20.Palindromes\bin\Debug\20.Palindromes.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\20.Palindromes\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\20.Palindromes\obj\Debug\20.Palindromes.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\20.Palindromes\obj\Debug\20.Palindromes.pdb

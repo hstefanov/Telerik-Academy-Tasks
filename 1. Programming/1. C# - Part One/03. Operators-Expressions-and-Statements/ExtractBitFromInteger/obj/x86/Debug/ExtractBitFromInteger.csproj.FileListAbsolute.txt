@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\ExtractBitFromInteger\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\ExtractBitFromInteger\obj\x86\Debug\ExtractBitFromInteger.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Operators-Expressions-and-Statements\ExtractBitFromInteger\obj\x86\Debug\ExtractBitFromInteger.pdb

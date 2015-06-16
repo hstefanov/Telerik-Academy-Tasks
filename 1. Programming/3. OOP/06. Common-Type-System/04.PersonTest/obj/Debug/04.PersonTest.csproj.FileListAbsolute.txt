@@ -1,0 +1,6 @@
+C:\Users\vega31\Desktop\Projects\Common-Type-System\04.PersonTest\obj\Debug\04.PersonTest.csprojResolveAssemblyReference.cache
+C:\Users\vega31\Desktop\Projects\Common-Type-System\04.PersonTest\bin\Debug\04.PersonTest.exe.config
+C:\Users\vega31\Desktop\Projects\Common-Type-System\04.PersonTest\bin\Debug\04.PersonTest.exe
+C:\Users\vega31\Desktop\Projects\Common-Type-System\04.PersonTest\bin\Debug\04.PersonTest.pdb
+C:\Users\vega31\Desktop\Projects\Common-Type-System\04.PersonTest\obj\Debug\04.PersonTest.exe
+C:\Users\vega31\Desktop\Projects\Common-Type-System\04.PersonTest\obj\Debug\04.PersonTest.pdb

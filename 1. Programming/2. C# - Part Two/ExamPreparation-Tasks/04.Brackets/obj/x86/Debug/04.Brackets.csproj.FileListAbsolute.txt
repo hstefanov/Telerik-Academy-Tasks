@@ -1,0 +1,7 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\ExamPreparations\ExamPreparation\04.Brackets\bin\Debug\04.Brackets.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\ExamPreparations\ExamPreparation\04.Brackets\bin\Debug\04.Brackets.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\ExamPreparations\ExamPreparation\04.Brackets\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\ExamPreparations\ExamPreparation\04.Brackets\obj\x86\Debug\04.Brackets.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\ExamPreparations\ExamPreparation\04.Brackets\obj\x86\Debug\04.Brackets.pdb
+G:\ExamPreparation\04.Brackets\obj\x86\Debug\04.Brackets.exe
+G:\ExamPreparation\04.Brackets\obj\x86\Debug\04.Brackets.pdb

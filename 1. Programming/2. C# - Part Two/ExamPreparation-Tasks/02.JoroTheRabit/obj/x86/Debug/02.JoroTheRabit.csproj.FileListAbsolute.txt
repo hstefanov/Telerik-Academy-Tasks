@@ -1,0 +1,7 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\ExamPreparations\ExamPreparation\02.JoroTheRabit\bin\Debug\02.JoroTheRabit.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\ExamPreparations\ExamPreparation\02.JoroTheRabit\bin\Debug\02.JoroTheRabit.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\ExamPreparations\ExamPreparation\02.JoroTheRabit\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\ExamPreparations\ExamPreparation\02.JoroTheRabit\obj\x86\Debug\02.JoroTheRabit.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\ExamPreparations\ExamPreparation\02.JoroTheRabit\obj\x86\Debug\02.JoroTheRabit.pdb
+K:\ExamPreparation\02.JoroTheRabit\obj\x86\Debug\02.JoroTheRabit.exe
+K:\ExamPreparation\02.JoroTheRabit\obj\x86\Debug\02.JoroTheRabit.pdb

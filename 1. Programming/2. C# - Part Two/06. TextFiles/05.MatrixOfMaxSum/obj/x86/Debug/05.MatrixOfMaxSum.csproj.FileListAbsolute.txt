@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\05.MatrixOfMaxSum\bin\Debug\05.MatrixOfMaxSum.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\05.MatrixOfMaxSum\bin\Debug\05.MatrixOfMaxSum.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\05.MatrixOfMaxSum\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\05.MatrixOfMaxSum\obj\x86\Debug\05.MatrixOfMaxSum.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\05.MatrixOfMaxSum\obj\x86\Debug\05.MatrixOfMaxSum.pdb

@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Introduction-To-Programming\PrintMyName\bin\Debug\PrintMyName.exe
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Introduction-To-Programming\PrintMyName\bin\Debug\PrintMyName.pdb
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Introduction-To-Programming\PrintMyName\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Introduction-To-Programming\PrintMyName\obj\x86\Debug\PrintMyName.exe
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Introduction-To-Programming\PrintMyName\obj\x86\Debug\PrintMyName.pdb

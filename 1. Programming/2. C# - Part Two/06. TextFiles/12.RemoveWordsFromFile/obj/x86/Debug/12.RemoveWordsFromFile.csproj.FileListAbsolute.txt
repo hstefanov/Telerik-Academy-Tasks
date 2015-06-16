@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\12.RemoveWordsFromFile\bin\Debug\12.RemoveWordsFromFile.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\12.RemoveWordsFromFile\bin\Debug\12.RemoveWordsFromFile.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\12.RemoveWordsFromFile\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\12.RemoveWordsFromFile\obj\x86\Debug\12.RemoveWordsFromFile.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\12.RemoveWordsFromFile\obj\x86\Debug\12.RemoveWordsFromFile.pdb

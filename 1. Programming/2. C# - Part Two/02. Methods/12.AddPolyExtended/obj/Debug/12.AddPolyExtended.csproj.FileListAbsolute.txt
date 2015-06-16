@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\Methods\12.AddPolyExtended\bin\Debug\12.AddPolyExtended.exe.config
+C:\Users\vega31\Desktop\Projects\Methods\12.AddPolyExtended\bin\Debug\12.AddPolyExtended.exe
+C:\Users\vega31\Desktop\Projects\Methods\12.AddPolyExtended\bin\Debug\12.AddPolyExtended.pdb
+C:\Users\vega31\Desktop\Projects\Methods\12.AddPolyExtended\obj\Debug\12.AddPolyExtended.exe
+C:\Users\vega31\Desktop\Projects\Methods\12.AddPolyExtended\obj\Debug\12.AddPolyExtended.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\12.AddPolyExtended\bin\Debug\12.AddPolyExtended.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\12.AddPolyExtended\bin\Debug\12.AddPolyExtended.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\12.AddPolyExtended\bin\Debug\12.AddPolyExtended.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\12.AddPolyExtended\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\12.AddPolyExtended\obj\Debug\12.AddPolyExtended.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\12.AddPolyExtended\obj\Debug\12.AddPolyExtended.pdb

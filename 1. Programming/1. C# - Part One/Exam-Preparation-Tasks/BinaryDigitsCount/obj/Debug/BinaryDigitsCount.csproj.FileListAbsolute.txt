@@ -1,0 +1,5 @@
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe.config
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.pdb
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.exe
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.pdb

@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\20.VariationsOfKElements\bin\Debug\20.VariationsOfKElements.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\20.VariationsOfKElements\bin\Debug\20.VariationsOfKElements.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\20.VariationsOfKElements\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\20.VariationsOfKElements\obj\x86\Debug\20.VariationsOfKElements.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\20.VariationsOfKElements\obj\x86\Debug\20.VariationsOfKElements.pdb

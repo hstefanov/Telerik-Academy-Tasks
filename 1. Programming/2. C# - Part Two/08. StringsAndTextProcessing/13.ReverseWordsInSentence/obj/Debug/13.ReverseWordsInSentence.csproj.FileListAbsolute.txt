@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\13.ReverseWordsInSentence\bin\Debug\13.ReverseWordsInSentence.exe.config
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\13.ReverseWordsInSentence\bin\Debug\13.ReverseWordsInSentence.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\13.ReverseWordsInSentence\bin\Debug\13.ReverseWordsInSentence.pdb
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\13.ReverseWordsInSentence\obj\Debug\13.ReverseWordsInSentence.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\13.ReverseWordsInSentence\obj\Debug\13.ReverseWordsInSentence.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\13.ReverseWordsInSentence\bin\Debug\13.ReverseWordsInSentence.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\13.ReverseWordsInSentence\bin\Debug\13.ReverseWordsInSentence.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\13.ReverseWordsInSentence\bin\Debug\13.ReverseWordsInSentence.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\13.ReverseWordsInSentence\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\13.ReverseWordsInSentence\obj\Debug\13.ReverseWordsInSentence.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\13.ReverseWordsInSentence\obj\Debug\13.ReverseWordsInSentence.pdb

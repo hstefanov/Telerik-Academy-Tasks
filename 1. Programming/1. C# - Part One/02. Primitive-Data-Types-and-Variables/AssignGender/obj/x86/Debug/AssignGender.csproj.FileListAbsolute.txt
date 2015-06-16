@@ -1,0 +1,7 @@
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Primitive-Data-Types-and-Variables\AssignGender\bin\Debug\AssignGender.exe
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Primitive-Data-Types-and-Variables\AssignGender\bin\Debug\AssignGender.pdb
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Primitive-Data-Types-and-Variables\AssignGender\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Primitive-Data-Types-and-Variables\AssignGender\obj\x86\Debug\AssignGender.exe
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Primitive-Data-Types-and-Variables\AssignGender\obj\x86\Debug\AssignGender.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Primitive-Data-Types-and-Variables\AssignGender\obj\x86\Debug\AssignGender.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Primitive-Data-Types-and-Variables\AssignGender\obj\x86\Debug\AssignGender.pdb

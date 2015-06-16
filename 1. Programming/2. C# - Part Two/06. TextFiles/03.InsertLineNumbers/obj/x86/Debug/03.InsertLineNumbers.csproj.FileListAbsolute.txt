@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\03.InsertLineNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\03.InsertLineNumbers\obj\x86\Debug\03.InsertLineNumbers.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\03.InsertLineNumbers\obj\x86\Debug\03.InsertLineNumbers.pdb

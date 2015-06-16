@@ -1,0 +1,9 @@
+K:\ExamPreparation\06.GreeDyDwarf\bin\Debug\06.GreeDyDwarf.exe.config
+K:\ExamPreparation\06.GreeDyDwarf\obj\Debug\06.GreeDyDwarf.csprojResolveAssemblyReference.cache
+K:\ExamPreparation\06.GreeDyDwarf\bin\Debug\06.GreeDyDwarf.exe
+K:\ExamPreparation\06.GreeDyDwarf\bin\Debug\06.GreeDyDwarf.pdb
+K:\ExamPreparation\06.GreeDyDwarf\obj\Debug\06.GreeDyDwarf.exe
+K:\ExamPreparation\06.GreeDyDwarf\obj\Debug\06.GreeDyDwarf.pdb
+G:\ExamPreparation\06.GreeDyDwarf\bin\Debug\06.GreeDyDwarf.exe.config
+G:\ExamPreparation\06.GreeDyDwarf\obj\Debug\06.GreeDyDwarf.exe
+G:\ExamPreparation\06.GreeDyDwarf\obj\Debug\06.GreeDyDwarf.pdb

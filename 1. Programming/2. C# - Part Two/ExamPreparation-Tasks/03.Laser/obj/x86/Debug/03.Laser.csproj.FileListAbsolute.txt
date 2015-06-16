@@ -1,0 +1,9 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\ExamPreparations\ExamPreparation\03.Laser\bin\Debug\03.Laser.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\ExamPreparations\ExamPreparation\03.Laser\bin\Debug\03.Laser.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\ExamPreparations\ExamPreparation\03.Laser\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\ExamPreparations\ExamPreparation\03.Laser\obj\x86\Debug\03.Laser.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\ExamPreparations\ExamPreparation\03.Laser\obj\x86\Debug\03.Laser.pdb
+K:\ExamPreparation\03.Laser\obj\x86\Debug\03.Laser.exe
+K:\ExamPreparation\03.Laser\obj\x86\Debug\03.Laser.pdb
+G:\ExamPreparation\03.Laser\obj\x86\Debug\03.Laser.exe
+G:\ExamPreparation\03.Laser\obj\x86\Debug\03.Laser.pdb

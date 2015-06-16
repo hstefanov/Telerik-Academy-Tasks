@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\Methods\02.GetBiggestNumber\bin\Debug\02.GetBiggestNumber.exe.config
+C:\Users\vega31\Desktop\Projects\Methods\02.GetBiggestNumber\bin\Debug\02.GetBiggestNumber.exe
+C:\Users\vega31\Desktop\Projects\Methods\02.GetBiggestNumber\bin\Debug\02.GetBiggestNumber.pdb
+C:\Users\vega31\Desktop\Projects\Methods\02.GetBiggestNumber\obj\Debug\02.GetBiggestNumber.exe
+C:\Users\vega31\Desktop\Projects\Methods\02.GetBiggestNumber\obj\Debug\02.GetBiggestNumber.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\02.GetBiggestNumber\bin\Debug\02.GetBiggestNumber.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\02.GetBiggestNumber\bin\Debug\02.GetBiggestNumber.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\02.GetBiggestNumber\bin\Debug\02.GetBiggestNumber.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\02.GetBiggestNumber\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\02.GetBiggestNumber\obj\Debug\02.GetBiggestNumber.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\02.GetBiggestNumber\obj\Debug\02.GetBiggestNumber.pdb

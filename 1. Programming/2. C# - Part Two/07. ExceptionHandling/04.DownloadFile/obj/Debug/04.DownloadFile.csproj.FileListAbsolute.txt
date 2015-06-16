@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\Exceptions\04.DownloadFile\bin\Debug\04.DownloadFile.exe.config
+C:\Users\vega31\Desktop\Projects\Exceptions\04.DownloadFile\bin\Debug\04.DownloadFile.exe
+C:\Users\vega31\Desktop\Projects\Exceptions\04.DownloadFile\bin\Debug\04.DownloadFile.pdb
+C:\Users\vega31\Desktop\Projects\Exceptions\04.DownloadFile\obj\Debug\04.DownloadFile.exe
+C:\Users\vega31\Desktop\Projects\Exceptions\04.DownloadFile\obj\Debug\04.DownloadFile.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\ExceptionHandling\04.DownloadFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\ExceptionHandling\04.DownloadFile\obj\Debug\04.DownloadFile.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\ExceptionHandling\04.DownloadFile\obj\Debug\04.DownloadFile.pdb

@@ -1,0 +1,6 @@
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\06.CalculateSum\bin\Debug\06.CalculateSum.exe.config
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\06.CalculateSum\obj\Debug\06.CalculateSum.csprojResolveAssemblyReference.cache
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\06.CalculateSum\bin\Debug\06.CalculateSum.exe
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\06.CalculateSum\bin\Debug\06.CalculateSum.pdb
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\06.CalculateSum\obj\Debug\06.CalculateSum.exe
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\06.CalculateSum\obj\Debug\06.CalculateSum.pdb

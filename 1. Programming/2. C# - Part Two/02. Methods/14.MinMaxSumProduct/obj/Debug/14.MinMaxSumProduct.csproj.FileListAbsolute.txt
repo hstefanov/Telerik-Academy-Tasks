@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\Methods\14.MinMaxSumProduct\bin\Debug\14.MinMaxSumProduct.exe.config
+C:\Users\vega31\Desktop\Projects\Methods\14.MinMaxSumProduct\bin\Debug\14.MinMaxSumProduct.exe
+C:\Users\vega31\Desktop\Projects\Methods\14.MinMaxSumProduct\bin\Debug\14.MinMaxSumProduct.pdb
+C:\Users\vega31\Desktop\Projects\Methods\14.MinMaxSumProduct\obj\Debug\14.MinMaxSumProduct.exe
+C:\Users\vega31\Desktop\Projects\Methods\14.MinMaxSumProduct\obj\Debug\14.MinMaxSumProduct.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\14.MinMaxSumProduct\bin\Debug\14.MinMaxSumProduct.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\14.MinMaxSumProduct\bin\Debug\14.MinMaxSumProduct.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\14.MinMaxSumProduct\bin\Debug\14.MinMaxSumProduct.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\14.MinMaxSumProduct\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\14.MinMaxSumProduct\obj\Debug\14.MinMaxSumProduct.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\14.MinMaxSumProduct\obj\Debug\14.MinMaxSumProduct.pdb

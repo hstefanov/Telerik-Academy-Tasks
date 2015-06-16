@@ -1,0 +1,6 @@
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\SandClock\bin\Debug\SandClock.exe.config
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\SandClock\bin\Debug\SandClock.exe
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\SandClock\bin\Debug\SandClock.pdb
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\SandClock\obj\Debug\SandClock.csprojResolveAssemblyReference.cache
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\SandClock\obj\Debug\SandClock.exe
+C:\Users\vega31\Desktop\CUDA\Projects\ExamPreparation\SandClock\obj\Debug\SandClock.pdb

@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\Methods\13.SolveDifferentTasks\bin\Debug\13.SolveDifferentTasks.exe.config
+C:\Users\vega31\Desktop\Projects\Methods\13.SolveDifferentTasks\bin\Debug\13.SolveDifferentTasks.exe
+C:\Users\vega31\Desktop\Projects\Methods\13.SolveDifferentTasks\bin\Debug\13.SolveDifferentTasks.pdb
+C:\Users\vega31\Desktop\Projects\Methods\13.SolveDifferentTasks\obj\Debug\13.SolveDifferentTasks.exe
+C:\Users\vega31\Desktop\Projects\Methods\13.SolveDifferentTasks\obj\Debug\13.SolveDifferentTasks.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\13.SolveDifferentTasks\bin\Debug\13.SolveDifferentTasks.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\13.SolveDifferentTasks\bin\Debug\13.SolveDifferentTasks.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\13.SolveDifferentTasks\bin\Debug\13.SolveDifferentTasks.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\13.SolveDifferentTasks\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\13.SolveDifferentTasks\obj\Debug\13.SolveDifferentTasks.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\13.SolveDifferentTasks\obj\Debug\13.SolveDifferentTasks.pdb

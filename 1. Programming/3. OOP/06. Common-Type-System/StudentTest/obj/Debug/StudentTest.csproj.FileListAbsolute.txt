@@ -1,0 +1,6 @@
+C:\Users\vega31\Desktop\Projects\Common-Type-System\StudentTest\bin\Debug\StudentTest.exe.config
+C:\Users\vega31\Desktop\Projects\Common-Type-System\StudentTest\bin\Debug\StudentTest.exe
+C:\Users\vega31\Desktop\Projects\Common-Type-System\StudentTest\bin\Debug\StudentTest.pdb
+C:\Users\vega31\Desktop\Projects\Common-Type-System\StudentTest\obj\Debug\StudentTest.csprojResolveAssemblyReference.cache
+C:\Users\vega31\Desktop\Projects\Common-Type-System\StudentTest\obj\Debug\StudentTest.exe
+C:\Users\vega31\Desktop\Projects\Common-Type-System\StudentTest\obj\Debug\StudentTest.pdb

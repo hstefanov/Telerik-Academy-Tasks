@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\12.MergeSortAlgorithm\bin\Debug\12.MergeSortAlgorithm.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\12.MergeSortAlgorithm\bin\Debug\12.MergeSortAlgorithm.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\12.MergeSortAlgorithm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\12.MergeSortAlgorithm\obj\x86\Debug\12.MergeSortAlgorithm.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\12.MergeSortAlgorithm\obj\x86\Debug\12.MergeSortAlgorithm.pdb

@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\19.ExtractDates\bin\Debug\19.ExtractDates.exe.config
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\19.ExtractDates\bin\Debug\19.ExtractDates.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\19.ExtractDates\bin\Debug\19.ExtractDates.pdb
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\19.ExtractDates\obj\Debug\19.ExtractDates.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\19.ExtractDates\obj\Debug\19.ExtractDates.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\19.ExtractDates\bin\Debug\19.ExtractDates.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\19.ExtractDates\bin\Debug\19.ExtractDates.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\19.ExtractDates\bin\Debug\19.ExtractDates.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\19.ExtractDates\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\19.ExtractDates\obj\Debug\19.ExtractDates.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\19.ExtractDates\obj\Debug\19.ExtractDates.pdb

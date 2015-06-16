@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Introduction-To-Programming\PrintHelloCSharp\bin\Debug\PrintHelloCSharp.exe
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Introduction-To-Programming\PrintHelloCSharp\bin\Debug\PrintHelloCSharp.pdb
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Introduction-To-Programming\PrintHelloCSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Introduction-To-Programming\PrintHelloCSharp\obj\x86\Debug\PrintHelloCSharp.exe
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Introduction-To-Programming\PrintHelloCSharp\obj\x86\Debug\PrintHelloCSharp.pdb

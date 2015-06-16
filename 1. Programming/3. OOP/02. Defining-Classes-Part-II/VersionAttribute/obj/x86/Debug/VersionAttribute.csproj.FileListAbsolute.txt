@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-II\Defining-Classes-Part-II\VersionAttribute\bin\Debug\VersionAttribute.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-II\Defining-Classes-Part-II\VersionAttribute\bin\Debug\VersionAttribute.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-II\Defining-Classes-Part-II\VersionAttribute\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-II\Defining-Classes-Part-II\VersionAttribute\obj\x86\Debug\VersionAttribute.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Defining-Classes-Part-II\Defining-Classes-Part-II\VersionAttribute\obj\x86\Debug\VersionAttribute.pdb

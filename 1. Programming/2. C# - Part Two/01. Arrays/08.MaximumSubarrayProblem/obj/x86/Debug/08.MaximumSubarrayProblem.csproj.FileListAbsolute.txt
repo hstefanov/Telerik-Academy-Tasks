@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\08.MaximumSubarrayProblem\bin\Debug\08.MaximumSubarrayProblem.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\08.MaximumSubarrayProblem\bin\Debug\08.MaximumSubarrayProblem.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\08.MaximumSubarrayProblem\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\08.MaximumSubarrayProblem\obj\x86\Debug\08.MaximumSubarrayProblem.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\08.MaximumSubarrayProblem\obj\x86\Debug\08.MaximumSubarrayProblem.pdb

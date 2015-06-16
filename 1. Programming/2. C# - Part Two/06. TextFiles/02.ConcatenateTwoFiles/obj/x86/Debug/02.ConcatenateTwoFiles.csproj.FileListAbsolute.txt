@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\02.ConcatenateTwoFiles\bin\Debug\02.ConcatenateTwoFiles.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\02.ConcatenateTwoFiles\bin\Debug\02.ConcatenateTwoFiles.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\02.ConcatenateTwoFiles\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\02.ConcatenateTwoFiles\obj\x86\Debug\02.ConcatenateTwoFiles.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\TextFiles\02.ConcatenateTwoFiles\obj\x86\Debug\02.ConcatenateTwoFiles.pdb

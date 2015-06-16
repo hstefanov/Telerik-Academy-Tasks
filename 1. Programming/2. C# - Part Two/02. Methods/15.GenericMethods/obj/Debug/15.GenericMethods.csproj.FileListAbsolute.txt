@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\Methods\15.GenericMethods\bin\Debug\15.GenericMethods.exe.config
+C:\Users\vega31\Desktop\Projects\Methods\15.GenericMethods\bin\Debug\15.GenericMethods.exe
+C:\Users\vega31\Desktop\Projects\Methods\15.GenericMethods\bin\Debug\15.GenericMethods.pdb
+C:\Users\vega31\Desktop\Projects\Methods\15.GenericMethods\obj\Debug\15.GenericMethods.exe
+C:\Users\vega31\Desktop\Projects\Methods\15.GenericMethods\obj\Debug\15.GenericMethods.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\15.GenericMethods\bin\Debug\15.GenericMethods.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\15.GenericMethods\bin\Debug\15.GenericMethods.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\15.GenericMethods\bin\Debug\15.GenericMethods.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\15.GenericMethods\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\15.GenericMethods\obj\Debug\15.GenericMethods.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Methods\15.GenericMethods\obj\Debug\15.GenericMethods.pdb

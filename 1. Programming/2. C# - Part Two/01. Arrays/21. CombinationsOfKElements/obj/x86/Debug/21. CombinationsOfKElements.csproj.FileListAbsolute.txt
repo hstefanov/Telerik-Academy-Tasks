@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\21. CombinationsOfKElements\bin\Debug\_21.CombinationsOfKElements.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\21. CombinationsOfKElements\bin\Debug\_21.CombinationsOfKElements.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\21. CombinationsOfKElements\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\21. CombinationsOfKElements\obj\x86\Debug\_21.CombinationsOfKElements.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\21. CombinationsOfKElements\obj\x86\Debug\_21.CombinationsOfKElements.pdb

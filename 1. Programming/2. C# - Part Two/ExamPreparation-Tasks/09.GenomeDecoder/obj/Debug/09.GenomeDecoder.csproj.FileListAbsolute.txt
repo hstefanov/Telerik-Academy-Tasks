@@ -1,0 +1,9 @@
+K:\ExamPreparation\09.GenomeDecoder\bin\Debug\09.GenomeDecoder.exe.config
+K:\ExamPreparation\09.GenomeDecoder\obj\Debug\09.GenomeDecoder.csprojResolveAssemblyReference.cache
+K:\ExamPreparation\09.GenomeDecoder\bin\Debug\09.GenomeDecoder.exe
+K:\ExamPreparation\09.GenomeDecoder\bin\Debug\09.GenomeDecoder.pdb
+K:\ExamPreparation\09.GenomeDecoder\obj\Debug\09.GenomeDecoder.exe
+K:\ExamPreparation\09.GenomeDecoder\obj\Debug\09.GenomeDecoder.pdb
+G:\ExamPreparation\09.GenomeDecoder\bin\Debug\09.GenomeDecoder.exe.config
+G:\ExamPreparation\09.GenomeDecoder\obj\Debug\09.GenomeDecoder.exe
+G:\ExamPreparation\09.GenomeDecoder\obj\Debug\09.GenomeDecoder.pdb

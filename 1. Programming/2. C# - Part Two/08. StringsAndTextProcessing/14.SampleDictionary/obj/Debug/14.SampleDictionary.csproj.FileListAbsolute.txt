@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\14.SampleDictionary\bin\Debug\14.SampleDictionary.exe.config
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\14.SampleDictionary\bin\Debug\14.SampleDictionary.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\14.SampleDictionary\bin\Debug\14.SampleDictionary.pdb
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\14.SampleDictionary\obj\Debug\14.SampleDictionary.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\14.SampleDictionary\obj\Debug\14.SampleDictionary.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\14.SampleDictionary\bin\Debug\14.SampleDictionary.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\14.SampleDictionary\bin\Debug\14.SampleDictionary.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\14.SampleDictionary\bin\Debug\14.SampleDictionary.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\14.SampleDictionary\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\14.SampleDictionary\obj\Debug\14.SampleDictionary.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\14.SampleDictionary\obj\Debug\14.SampleDictionary.pdb

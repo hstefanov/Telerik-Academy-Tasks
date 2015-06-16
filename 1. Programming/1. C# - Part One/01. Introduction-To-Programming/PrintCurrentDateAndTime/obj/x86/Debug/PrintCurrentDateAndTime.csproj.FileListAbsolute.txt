@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Introduction-To-Programming\PrintCurrentDateAndTime\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Introduction-To-Programming\PrintCurrentDateAndTime\bin\Debug\PrintCurrentDateAndTime.exe
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Introduction-To-Programming\PrintCurrentDateAndTime\bin\Debug\PrintCurrentDateAndTime.pdb
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Introduction-To-Programming\PrintCurrentDateAndTime\obj\x86\Debug\PrintCurrentDateAndTime.exe
+D:\Documents and Settings\UserHS\My Documents\Visual Studio 2010\Projects\Introduction-To-Programming\PrintCurrentDateAndTime\obj\x86\Debug\PrintCurrentDateAndTime.pdb

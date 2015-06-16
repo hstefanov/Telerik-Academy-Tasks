@@ -1,0 +1,9 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\MinAndMaxOfNumbers\bin\Debug\MinAndMaxOfNumbers.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\MinAndMaxOfNumbers\bin\Debug\MinAndMaxOfNumbers.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\MinAndMaxOfNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\MinAndMaxOfNumbers\obj\x86\Debug\MinAndMaxOfNumbers.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\MinAndMaxOfNumbers\obj\x86\Debug\MinAndMaxOfNumbers.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\MinAndMaxOfNumbers\obj\x86\Debug\MinAndMaxOfNumbers.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Loops\MinAndMaxOfNumbers\obj\x86\Debug\MinAndMaxOfNumbers.pdb
+D:\Telerik-Academy\1. Programming\1. C# - Part One\06. Loops\MinAndMaxOfNumbers\obj\x86\Debug\MinAndMaxOfNumbers.exe
+D:\Telerik-Academy\1. Programming\1. C# - Part One\06. Loops\MinAndMaxOfNumbers\obj\x86\Debug\MinAndMaxOfNumbers.pdb

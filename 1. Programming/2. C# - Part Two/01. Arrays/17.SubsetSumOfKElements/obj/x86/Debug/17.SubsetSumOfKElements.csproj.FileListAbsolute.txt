@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\17.SubsetSumOfKElements\bin\Debug\17.SubsetSumOfKElements.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\17.SubsetSumOfKElements\bin\Debug\17.SubsetSumOfKElements.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\17.SubsetSumOfKElements\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\17.SubsetSumOfKElements\obj\x86\Debug\17.SubsetSumOfKElements.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\17.SubsetSumOfKElements\obj\x86\Debug\17.SubsetSumOfKElements.pdb

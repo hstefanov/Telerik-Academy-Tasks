@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\16.SubsetSums\bin\Debug\16.SubsetSums.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\16.SubsetSums\bin\Debug\16.SubsetSums.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\16.SubsetSums\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\16.SubsetSums\obj\x86\Debug\16.SubsetSums.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\16.SubsetSums\obj\x86\Debug\16.SubsetSums.pdb

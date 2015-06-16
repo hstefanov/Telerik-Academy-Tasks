@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Console-Input-Output\SumWithAccuracy\bin\Debug\SumWithAccuracy.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Console-Input-Output\SumWithAccuracy\bin\Debug\SumWithAccuracy.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Console-Input-Output\SumWithAccuracy\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Console-Input-Output\SumWithAccuracy\obj\x86\Debug\SumWithAccuracy.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Console-Input-Output\SumWithAccuracy\obj\x86\Debug\SumWithAccuracy.pdb

@@ -1,0 +1,6 @@
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\07.CalculateExpression\bin\Debug\07.CalculateExpression.exe.config
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\07.CalculateExpression\obj\Debug\07.CalculateExpression.csprojResolveAssemblyReference.cache
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\07.CalculateExpression\bin\Debug\07.CalculateExpression.exe
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\07.CalculateExpression\bin\Debug\07.CalculateExpression.pdb
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\07.CalculateExpression\obj\Debug\07.CalculateExpression.exe
+C:\Users\vega31\Desktop\Projects\UsingClassesAndObects\07.CalculateExpression\obj\Debug\07.CalculateExpression.pdb

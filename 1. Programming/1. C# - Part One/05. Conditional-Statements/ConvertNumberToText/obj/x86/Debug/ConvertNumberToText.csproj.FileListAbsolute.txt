@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\ConvertNumberToText\bin\Debug\ConvertNumberToText.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\ConvertNumberToText\bin\Debug\ConvertNumberToText.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\ConvertNumberToText\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\ConvertNumberToText\obj\x86\Debug\ConvertNumberToText.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Conditional-Statements\ConvertNumberToText\obj\x86\Debug\ConvertNumberToText.pdb

@@ -1,0 +1,16 @@
+C:\Users\vega31\Desktop\Projects\Extension-Methods-And-LINQ\03.FirstNameBeforeLast\bin\Debug\03.FirstNameBeforeLast.exe.config
+C:\Users\vega31\Desktop\Projects\Extension-Methods-And-LINQ\03.FirstNameBeforeLast\obj\Debug\03.FirstNameBeforeLast.csprojResolveAssemblyReference.cache
+C:\Users\vega31\Desktop\Projects\Extension-Methods-And-LINQ\03.FirstNameBeforeLast\bin\Debug\03.FirstNameBeforeLast.exe
+C:\Users\vega31\Desktop\Projects\Extension-Methods-And-LINQ\03.FirstNameBeforeLast\bin\Debug\03.FirstNameBeforeLast.pdb
+C:\Users\vega31\Desktop\Projects\Extension-Methods-And-LINQ\03.FirstNameBeforeLast\bin\Debug\09.StudentClass.exe
+C:\Users\vega31\Desktop\Projects\Extension-Methods-And-LINQ\03.FirstNameBeforeLast\bin\Debug\09.StudentClass.pdb
+C:\Users\vega31\Desktop\Projects\Extension-Methods-And-LINQ\03.FirstNameBeforeLast\obj\Debug\03.FirstNameBeforeLast.exe
+C:\Users\vega31\Desktop\Projects\Extension-Methods-And-LINQ\03.FirstNameBeforeLast\obj\Debug\03.FirstNameBeforeLast.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\03.FirstNameBeforeLast\bin\Debug\03.FirstNameBeforeLast.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\03.FirstNameBeforeLast\bin\Debug\03.FirstNameBeforeLast.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\03.FirstNameBeforeLast\bin\Debug\03.FirstNameBeforeLast.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\03.FirstNameBeforeLast\bin\Debug\09.StudentClass.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\03.FirstNameBeforeLast\bin\Debug\09.StudentClass.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\03.FirstNameBeforeLast\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\03.FirstNameBeforeLast\obj\Debug\03.FirstNameBeforeLast.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\OOP\Extension-Methods-And-LINQ\Extension-Methods-And-LINQ\03.FirstNameBeforeLast\obj\Debug\03.FirstNameBeforeLast.pdb

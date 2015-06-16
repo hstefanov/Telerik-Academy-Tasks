@@ -1,0 +1,11 @@
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\23.ReplaceConsecutiveLetters\bin\Debug\23.ReplaceConsecutiveLetters.exe.config
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\23.ReplaceConsecutiveLetters\bin\Debug\23.ReplaceConsecutiveLetters.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\23.ReplaceConsecutiveLetters\bin\Debug\23.ReplaceConsecutiveLetters.pdb
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\23.ReplaceConsecutiveLetters\obj\Debug\23.ReplaceConsecutiveLetters.exe
+C:\Users\vega31\Desktop\Projects\StringsAndTextProcessing\23.ReplaceConsecutiveLetters\obj\Debug\23.ReplaceConsecutiveLetters.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\23.ReplaceConsecutiveLetters\bin\Debug\23.ReplaceConsecutiveLetters.exe.config
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\23.ReplaceConsecutiveLetters\bin\Debug\23.ReplaceConsecutiveLetters.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\23.ReplaceConsecutiveLetters\bin\Debug\23.ReplaceConsecutiveLetters.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\23.ReplaceConsecutiveLetters\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\23.ReplaceConsecutiveLetters\obj\Debug\23.ReplaceConsecutiveLetters.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\C#2\StringsAndTextProcessing\23.ReplaceConsecutiveLetters\obj\Debug\23.ReplaceConsecutiveLetters.pdb

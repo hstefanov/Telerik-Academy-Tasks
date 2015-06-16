@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\15.SieveOfErathosthenes\bin\Debug\15.SieveOfErathosthenes.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\15.SieveOfErathosthenes\bin\Debug\15.SieveOfErathosthenes.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\15.SieveOfErathosthenes\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\15.SieveOfErathosthenes\obj\x86\Debug\15.SieveOfErathosthenes.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\15.SieveOfErathosthenes\obj\x86\Debug\15.SieveOfErathosthenes.pdb

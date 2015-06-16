@@ -1,0 +1,5 @@
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.pdb
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\11.BinarySearch\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\11.BinarySearch\obj\x86\Debug\11.BinarySearch.exe
+D:\Documents and Settings\UserHS\Desktop\Telerik\Homeworks\Projects\Arrays\11.BinarySearch\obj\x86\Debug\11.BinarySearch.pdb
