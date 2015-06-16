@@ -1,0 +1,48 @@
+﻿body
+{
+    background-color: #595959;
+    font-family: Arial;
+    margin : 0;
+    padding : 0;
+    font-size : 0;
+}
+a
+{
+    color: #f3f6ac;
+    text-decoration: none;
+}
+thead
+{
+    font-size: 20px;
+    color: #acb1aa;
+}
+span.circle /*The circle in the first row*/
+{
+    border-radius: 50%;
+    width: 2px;
+    height: 2px;
+    background-color: #71b47a;
+    margin-right : 5px;
+}
+span.alert
+{
+    color: Red;
+}
+td
+{
+    padding: 5px;
+    color: #ccc;
+}
+td.info, td.details
+{
+    font-size: 14px;
+}
+td.info
+{
+    font-style: italic;
+    color: #fff;
+}
+td.status
+{
+    color: orange;
+}

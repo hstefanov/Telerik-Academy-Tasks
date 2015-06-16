@@ -1,0 +1,41 @@
+﻿table
+{
+    border-collapse:collapse;
+    border: 1px solid #ccc;
+    font-family: Arial;
+    font-size: 12px;
+}
+thead
+{
+    background: #5ec306; /* Old browsers */    
+    color: #fff;
+}
+td
+{
+    padding: 7px;
+    border: 1px solid #b5b5b5;
+}
+.firstCol, .secondCol, .thirdCol
+{
+    width: 150px;
+}
+table tr:nth-child(2n)
+{
+    background-color: #efefef;
+}
+td.country
+{
+    padding-left: 33px;
+}
+td.country.germany
+{
+    background: url("germany.png") no-repeat 3px;
+}
+td.country.mexico
+{
+    background: url("mexico.png") no-repeat 3px;
+}
+td.country.uk
+{
+    background: url("uk.png") no-repeat 3px;
+}
