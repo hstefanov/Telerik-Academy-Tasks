@@ -1,5 +1,0 @@
-C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\XDocumentExtractTitles\bin\Debug\XDocumentExtractTitles.exe.config
-C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\XDocumentExtractTitles\bin\Debug\XDocumentExtractTitles.exe
-C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\XDocumentExtractTitles\bin\Debug\XDocumentExtractTitles.pdb
-C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\XDocumentExtractTitles\obj\Debug\XDocumentExtractTitles.exe
-C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\XDocumentExtractTitles\obj\Debug\XDocumentExtractTitles.pdb

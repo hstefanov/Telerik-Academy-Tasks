@@ -1,5 +1,0 @@
-C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\ExtractAlbums\bin\Debug\ExtractAlbums.exe.config
-C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\ExtractAlbums\bin\Debug\ExtractAlbums.exe
-C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\ExtractAlbums\bin\Debug\ExtractAlbums.pdb
-C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\ExtractAlbums\obj\Debug\ExtractAlbums.exe
-C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\ExtractAlbums\obj\Debug\ExtractAlbums.pdb

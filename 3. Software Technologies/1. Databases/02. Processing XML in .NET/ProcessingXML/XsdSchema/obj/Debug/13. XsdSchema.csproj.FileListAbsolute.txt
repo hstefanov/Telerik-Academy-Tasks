@@ -1,5 +1,0 @@
-C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\XsdSchema\bin\Debug\XsdSchema.exe.config
-C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\XsdSchema\bin\Debug\XsdSchema.exe
-C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\XsdSchema\bin\Debug\XsdSchema.pdb
-C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\XsdSchema\obj\Debug\XsdSchema.exe
-C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\XsdSchema\obj\Debug\XsdSchema.pdb

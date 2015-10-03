@@ -1,6 +1,0 @@
-C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\TraverseDirXDocument\bin\Debug\TraverseDirXDocument.exe.config
-C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\TraverseDirXDocument\bin\Debug\TraverseDirXDocument.exe
-C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\TraverseDirXDocument\bin\Debug\TraverseDirXDocument.pdb
-C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\TraverseDirXDocument\obj\Debug\TraverseDirXDocument.exe
-C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\TraverseDirXDocument\obj\Debug\TraverseDirXDocument.pdb
-C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\TraverseDirXDocument\obj\Debug\09. TraverseDirXDocument.csprojResolveAssemblyReference.cache
