@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students:students xmlns:students="urn:students-academy-com:ninja">
+  <students:student>
+    <students:name>Ivan</students:name>
+    <students:sex>Male</students:sex>
+    <students:birthDate>1988-12-04</students:birthDate>
+    <students:phone>+3590888888877</students:phone>
+    <students:emial>ivan@someMail.com</students:emial>
+    <students:course>C#</students:course>
+    <students:speciality>Matematics</students:speciality>
+    <students:facultyNumber>21007</students:facultyNumber>
+    <students:exams>
+      <students:exam>
+        <students:name>Programming Basics</students:name>
+        <students:tutor>Teodor Vasilev</students:tutor>
+        <students:score>5.00</students:score>
+      </students:exam>
+    </students:exams>
+  </students:student>
+  <students:student>
+    <students:name>Peter</students:name>
+    <students:sex>Male</students:sex>
+    <students:birthDate>1987-11-01</students:birthDate>
+    <students:phone>+3599998881</students:phone>
+    <students:emial>peter@mail.com</students:emial>
+    <students:course>Java Basics</students:course>
+    <students:speciality>Physics</students:speciality>
+    <students:facultyNumber>11135</students:facultyNumber>
+    <students:exams>
+      <students:exam>
+        <students:name>Java</students:name>
+        <students:tutor>Nikolai Krustev</students:tutor>
+        <students:score>6.00</students:score>
+      </students:exam>
+    </students:exams>
+  </students:student>
+</students:students>
