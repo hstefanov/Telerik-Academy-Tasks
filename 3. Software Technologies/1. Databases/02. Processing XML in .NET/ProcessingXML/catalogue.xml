@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalogue xmlns="urn:cool-music:bg">
+  <album>
+    <name>The Slim Shade</name>
+    <artist>Eminem</artist>
+    <year>2002-10-10</year>
+    <producer>Eminem</producer>
+    <price>10.50</price>
+    <songs>
+      <song>
+        <title>My Name Is</title>
+        <duration>4.30</duration>
+      </song>
+      <song>
+        <title>Slim Shady</title>
+        <duration>2.50</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>The Significant Other</name>
+    <artist>Limp Bizkit</artist>
+    <year>2001-06-10</year>
+    <producer>Fred Durst</producer>
+    <price>13.10</price>
+    <songs>
+      <song>
+        <title>Breakstuff</title>
+        <duration>3.10</duration>
+      </song>
+      <song>
+        <title>Nookie</title>
+        <duration>2.45</duration>
+      </song>
+      <song>
+        <title>Re-Arranged</title>
+        <duration>3.29</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Midnight Café</name>
+    <artist>Smokie</artist>
+    <year>1976-10-11</year>
+    <producer>Mike Chapman</producer>
+    <price>13.15</price>
+    <songs>
+      <song>
+        <title>What Can I Do</title>
+        <duration>3.35</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>The Marshall Mathers LP 2</name>
+    <artist>Eminem</artist>
+    <year>2013-02-10</year>
+    <producer>Aalias</producer>
+    <price>19.98</price>
+    <songs>
+      <song>
+        <title>Berzerk</title>
+        <duration>3.58</duration>
+      </song>
+
+      <song>
+        <title>Rap God</title>
+        <duration>6.03</duration>
+      </song>
+    </songs>
+  </album>
+</catalogue>
