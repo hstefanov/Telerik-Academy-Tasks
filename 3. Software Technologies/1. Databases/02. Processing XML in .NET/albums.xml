@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+  <album>
+    <name>The Slim Shade</name>
+    <artists>Eminem</artists>
+  </album>
+  <album>
+    <name>The Significant Other</name>
+    <artists>Limp Bizkit</artists>
+  </album>
+  <album>
+    <name>Midnight Café</name>
+    <artists>Smokie</artists>
+  </album>
+  <album>
+    <name>The Marshall Mathers LP 2</name>
+    <artists>Eminem</artists>
+  </album>
+</albums>

@@ -1,0 +1,5 @@
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\ExtractAlbumsXPath\bin\Debug\ExtractAlbumsXPath.exe.config
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\ExtractAlbumsXPath\bin\Debug\ExtractAlbumsXPath.exe
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\ExtractAlbumsXPath\bin\Debug\ExtractAlbumsXPath.pdb
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\ExtractAlbumsXPath\obj\Debug\ExtractAlbumsXPath.exe
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\ExtractAlbumsXPath\obj\Debug\ExtractAlbumsXPath.pdb
