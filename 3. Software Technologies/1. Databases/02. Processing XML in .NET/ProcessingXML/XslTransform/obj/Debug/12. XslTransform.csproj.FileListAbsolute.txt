@@ -1,0 +1,5 @@
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\XslTransform\bin\Debug\XslTransform.exe.config
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\XslTransform\bin\Debug\XslTransform.exe
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\XslTransform\bin\Debug\XslTransform.pdb
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\XslTransform\obj\Debug\XslTransform.exe
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\XslTransform\obj\Debug\XslTransform.pdb

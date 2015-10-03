@@ -1,0 +1,6 @@
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\AllArtistsDOMParser\obj\Debug\01. AllArtistsDOMParser.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\AllArtistsDOMParser\bin\Debug\AllArtistsDOMParser.exe.config
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\AllArtistsDOMParser\bin\Debug\AllArtistsDOMParser.exe
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\AllArtistsDOMParser\bin\Debug\AllArtistsDOMParser.pdb
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\AllArtistsDOMParser\obj\Debug\AllArtistsDOMParser.exe
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\AllArtistsDOMParser\obj\Debug\AllArtistsDOMParser.pdb

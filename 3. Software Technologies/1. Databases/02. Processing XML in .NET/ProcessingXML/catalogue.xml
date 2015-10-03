@@ -3,9 +3,9 @@
   <album>
     <name>The Slim Shade</name>
     <artist>Eminem</artist>
-    <year>2002-10-10</year>
+    <year>2002</year>
     <producer>Eminem</producer>
-    <price>10.50</price>
+    <price>30.50</price>
     <songs>
       <song>
         <title>My Name Is</title>
@@ -20,7 +20,7 @@
   <album>
     <name>The Significant Other</name>
     <artist>Limp Bizkit</artist>
-    <year>2001-06-10</year>
+    <year>2001</year>
     <producer>Fred Durst</producer>
     <price>13.10</price>
     <songs>
@@ -41,7 +41,7 @@
   <album>
     <name>Midnight Café</name>
     <artist>Smokie</artist>
-    <year>1976-10-11</year>
+    <year>1976</year>
     <producer>Mike Chapman</producer>
     <price>13.15</price>
     <songs>
@@ -54,7 +54,7 @@
   <album>
     <name>The Marshall Mathers LP 2</name>
     <artist>Eminem</artist>
-    <year>2013-02-10</year>
+    <year>2013</year>
     <producer>Aalias</producer>
     <price>19.98</price>
     <songs>

@@ -1,0 +1,5 @@
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\XMLReaderExtractTitles\bin\Debug\XMLReaderExtractTitles.exe.config
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\XMLReaderExtractTitles\bin\Debug\XMLReaderExtractTitles.exe
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\XMLReaderExtractTitles\bin\Debug\XMLReaderExtractTitles.pdb
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\XMLReaderExtractTitles\obj\Debug\XMLReaderExtractTitles.exe
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\XMLReaderExtractTitles\obj\Debug\XMLReaderExtractTitles.pdb

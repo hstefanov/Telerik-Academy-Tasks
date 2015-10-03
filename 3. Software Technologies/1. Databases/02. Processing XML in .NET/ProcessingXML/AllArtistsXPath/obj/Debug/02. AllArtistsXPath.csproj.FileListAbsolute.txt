@@ -1,0 +1,6 @@
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\AllArtistsXPath\bin\Debug\AllArtistsXPath.exe.config
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\AllArtistsXPath\bin\Debug\AllArtistsXPath.exe
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\AllArtistsXPath\bin\Debug\AllArtistsXPath.pdb
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\AllArtistsXPath\obj\Debug\02. AllArtistsXPath.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\AllArtistsXPath\obj\Debug\AllArtistsXPath.exe
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\ProcessingXML\AllArtistsXPath\obj\Debug\AllArtistsXPath.pdb
