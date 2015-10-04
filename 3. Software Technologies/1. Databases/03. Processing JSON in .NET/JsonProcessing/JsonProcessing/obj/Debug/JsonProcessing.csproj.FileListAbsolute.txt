@@ -1,0 +1,8 @@
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\03. Processing JSON in .NET\JsonProcessing\JsonProcessing\bin\Debug\JsonProcessing.exe.config
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\03. Processing JSON in .NET\JsonProcessing\JsonProcessing\bin\Debug\JsonProcessing.exe
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\03. Processing JSON in .NET\JsonProcessing\JsonProcessing\bin\Debug\JsonProcessing.pdb
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\03. Processing JSON in .NET\JsonProcessing\JsonProcessing\obj\Debug\JsonProcessing.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\03. Processing JSON in .NET\JsonProcessing\JsonProcessing\obj\Debug\JsonProcessing.exe
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\03. Processing JSON in .NET\JsonProcessing\JsonProcessing\obj\Debug\JsonProcessing.pdb
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\03. Processing JSON in .NET\JsonProcessing\JsonProcessing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\03. Processing JSON in .NET\JsonProcessing\JsonProcessing\bin\Debug\Newtonsoft.Json.xml
