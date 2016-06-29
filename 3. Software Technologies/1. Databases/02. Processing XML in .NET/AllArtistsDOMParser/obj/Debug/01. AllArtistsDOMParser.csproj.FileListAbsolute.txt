@@ -7,3 +7,6 @@ C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databa
 C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\AllArtistsDOMParser\bin\Debug\AllArtistsDOMParser.exe.config
 C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\AllArtistsDOMParser\obj\Debug\AllArtistsDOMParser.exe
 C:\Users\Hristo\Desktop\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\AllArtistsDOMParser\obj\Debug\AllArtistsDOMParser.pdb
+D:\Projects\Questar\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\AllArtistsDOMParser\bin\Debug\AllArtistsDOMParser.exe.config
+D:\Projects\Questar\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\AllArtistsDOMParser\obj\Debug\AllArtistsDOMParser.exe
+D:\Projects\Questar\Telerik-Academy-Tasks\3. Software Technologies\1. Databases\02. Processing XML in .NET\AllArtistsDOMParser\obj\Debug\AllArtistsDOMParser.pdb
