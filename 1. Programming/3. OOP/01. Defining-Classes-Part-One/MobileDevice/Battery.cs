@@ -5,7 +5,8 @@
     /// <summary>
     /// 3.Add an enumeration BatteryType (Li-Ion, NiMH, NiCd, …) and use it as a new field for the batteries.
     /// </summary>
-    
+
+    //Enumeration
     public enum BatteryType
     {
         Null,
